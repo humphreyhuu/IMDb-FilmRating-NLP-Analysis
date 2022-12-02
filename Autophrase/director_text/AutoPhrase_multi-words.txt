@@ -1,0 +1,3946 @@
+0.9828854874	blade runner
+0.9828152733	lincoln center
+0.9817812180	roman polanski
+0.9813953052	sin city
+0.9812238755	frost nixon
+0.9811486929	françois truffaut
+0.9811277875	gary cooper
+0.9810369372	lethal weapon
+0.9808974076	orson welles
+0.9804190290	denzel washington
+0.9802019662	ice age
+0.9801837403	tim robbins
+0.9801388603	brokeback mountain
+0.9799371887	jackie chan
+0.9799139997	studio ghibli
+0.9798097103	gregory peck
+0.9798055269	barton fink
+0.9794483841	nicole kidman
+0.9791055655	peter sellers
+0.9787695832	captain america
+0.9786960296	star wars
+0.9784398203	mystic river
+0.9783439411	francis ford coppola
+0.9782196577	robin hood
+0.9780784128	jack nicholson
+0.9779016924	mad max
+0.9777159668	michael clayton
+0.9776157753	ice cube
+0.9775097052	quentin tarantino
+0.9774810799	mike nichols
+0.9774109723	sergio leone
+0.9772727605	akira kurosawa
+0.9772290216	magnum force
+0.9770555269	laura linney
+0.9770484862	kirk douglas
+0.9770455957	united artists
+0.9769976016	free willy
+0.9769536038	sunset boulevard
+0.9769483841	pauline kael
+0.9767509179	west end
+0.9764856541	arrested development
+0.9764676148	forrest gump
+0.9763449742	golden lion
+0.9762588451	schindler's list
+0.9762240937	san francisco
+0.9762173711	boardwalk empire
+0.9761579120	ingmar bergman
+0.9761012372	columbia pictures
+0.9760780787	laurence olivier
+0.9760555269	slumdog millionaire
+0.9760504275	monty python
+0.9758951195	steven soderbergh
+0.9756969954	justice league
+0.9755669325	harvard university
+0.9754536038	charlton heston
+0.9754426279	saturday night live
+0.9752986310	wall street
+0.9752291115	tom cruise
+0.9751512798	howard hawks
+0.9751298937	toy story
+0.9750912453	raging bull
+0.9750134912	die hard
+0.9749627057	jean claude van damme
+0.9749523493	beverly hills
+0.9748945602	sudden impact
+0.9748370386	north america
+0.9747798198	paranormal activity
+0.9747747166	civil war
+0.9747123441	charlie's angels
+0.9742858865	rear window
+0.9742203083	clint eastwood
+0.9741922756	saturn awards
+0.9741877919	inside llewyn davis
+0.9741150507	meryl streep
+0.9734825736	primary colors
+0.9733967355	barbra streisand
+0.9730167450	jean luc godard
+0.9729942132	double indemnity
+0.9729357630	jurassic park
+0.9728913180	adam sandler
+0.9728793530	amazon prime
+0.9728755238	great britain
+0.9728697168	heavenly creatures
+0.9726150507	marcia gay harden
+0.9725555269	ian freer
+0.9725211258	el mariachi
+0.9724456207	sitges film festival
+0.9723461153	hong kong
+0.9720858694	pink panther
+0.9720751678	star trek
+0.9720709364	sony pictures
+0.9720132547	las vegas
+0.9717776001	sean connery
+0.9714794311	happy days
+0.9714272795	walt disney animation studios
+0.9712890461	steven spielberg
+0.9712420964	cc oont
+0.9711999365	joan fontaine
+0.9711670505	laurence fishburne
+0.9710376850	moscow international film festival
+0.9710105081	stranger things
+0.9709393436	tiger lily
+0.9709179052	high plains drifter
+0.9708049732	mani ratnam
+0.9707094668	kevin bacon
+0.9705573133	roger ebert
+0.9702372604	african american
+0.9701195214	wolf creek
+0.9700858694	van sant's
+0.9700721897	saving private ryan
+0.9700108982	metro goldwyn mayer
+0.9697697478	united states
+0.9695819744	sean penn
+0.9694110375	sir ridley scott
+0.9693529711	alfred hitchcock
+0.9692395112	harry potter
+0.9691761406	stanley kubrick
+0.9691170331	grand prix
+0.9690961481	fury road
+0.9689994596	toronto international film festival
+0.9688870663	sherlock holmes
+0.9688603388	berlin international film festival
+0.9687106343	billy wilder
+0.9685988076	independent spirit awards
+0.9684689100	sundance film festival
+0.9680520779	european film academy
+0.9678562886	silver lion
+0.9674189349	true romance
+0.9673049732	muhammad ali's
+0.9670392093	woody allen
+0.9665877659	golden bear
+0.9661629952	student academy award
+0.9660410961	stanley kubrick's
+0.9658171343	silver bear
+0.9651107883	neil simon's
+0.9651066948	andy griffith
+0.9650313663	natural born killers
+0.9650206852	stephen king
+0.9648143890	césar award
+0.9647503838	framed roger rabbit
+0.9646144864	harry met sally
+0.9643077846	ben hur
+0.9641692006	addams family
+0.9636989032	warner bros
+0.9632751304	walt disney productions
+0.9631259502	art thou
+0.9627967975	afi life achievement award
+0.9627384071	spider man
+0.9620939840	venice international film festival
+0.9620235444	steven spielberg's
+0.9619554747	american graffiti
+0.9617419986	kennedy center honor
+0.9613732288	american horror story
+0.9613714213	european film awards
+0.9609844418	wet hot american summer
+0.9609519069	dirty harry
+0.9608451890	south korean
+0.9608211841	george clooney
+0.9608166948	paramount pictures
+0.9602962862	south african
+0.9600151179	walt disney
+0.9595002998	saturn award
+0.9586917289	cinderella man
+0.9586155817	ingrid bergman
+0.9584231108	martin scorsese
+0.9583997428	van sant
+0.9580773846	million dollar baby
+0.9573902364	national film registry
+0.9570180059	golden globe
+0.9569150677	fifty shades
+0.9564729681	universal pictures
+0.9563382562	midnight express
+0.9562614440	los angeles
+0.9561100958	robert redford
+0.9559987634	venice film festival
+0.9557236250	grand jury prize
+0.9552859854	cannes film festival
+0.9547136399	academy awards
+0.9546818702	independent spirit award
+0.9541821819	gran torino
+0.9541594721	thalberg memorial award
+0.9538152946	jean pierre
+0.9533531138	golden globes
+0.9532789206	tim burton
+0.9532750259	national film awards
+0.9532292110	orion pictures
+0.9532064951	york university
+0.9531205880	american masters
+0.9530186132	dc comics
+0.9527501503	van damme
+0.9523086607	fellowship award
+0.9520264896	taxi driver
+0.9519404210	ridley scott
+0.9511605880	air force
+0.9506625210	demille award
+0.9506553229	grammy award
+0.9505532488	outstanding drama series
+0.9500795955	filmfare awards
+0.9492636961	tony award
+0.9488600215	jean luc
+0.9480953792	annie award
+0.9471501861	marvel cinematic universe
+0.9466726740	audience award
+0.9462974284	fine arts
+0.9459938324	united kingdom
+0.9457831150	primetime emmy
+0.9454589530	silent bob
+0.9446134067	screen actors guild
+0.9442654304	primetime emmy awards
+0.9441169224	critic roger ebert
+0.9434627954	scary movie
+0.9415666301	james stewart
+0.9412093053	academy award
+0.9410701074	costume designer
+0.9407462921	world war ii
+0.9407019180	british film institute
+0.9402114967	hong kong film awards
+0.9394803430	national lampoon's
+0.9382790262	tony awards
+0.9379842838	national lampoon's animal house
+0.9378215566	bafta fellowship
+0.9375447929	american film institute
+0.9372205276	white house
+0.9370845830	annie hall
+0.9368784519	dramatic special
+0.9367386671	southern california
+0.9359095459	special jury prize
+0.9356759609	britannia award
+0.9353266565	primetime emmy award
+0.9349879865	joseph cotten
+0.9344531682	president's award
+0.9335307820	producers guild
+0.9326698525	animated series
+0.9322505529	golden globe awards
+0.9305053952	queen elizabeth ii
+0.9296433310	grand jury
+0.9283499413	von trier
+0.9283187803	grand prize
+0.9277091259	world war
+0.9276872584	dollars trilogy
+0.9255728138	emmy award
+0.9252944420	performing arts
+0.9252558788	british academy film award
+0.9250476087	british academy film awards
+0.9250036416	film festival
+0.9238728002	emmy awards
+0.9234384638	bafta award
+0.9231046354	visual effects supervisor
+0.9219214184	film festivals
+0.9215363579	directors guild
+0.9213483157	bafta awards
+0.9190277569	jury prize
+0.9188762879	queen elizabeth
+0.9185308557	american film institute's life achievement award
+0.9175561731	golden age
+0.9173992372	filmfare award
+0.9166308554	heavy metal
+0.9155262775	herbert ross
+0.9146566679	special jury
+0.9146260784	golden globe award
+0.9129997658	stunt coordinator
+0.9129269107	assistant director
+0.9128144000	twilight zone
+0.9122861550	beverly hills cop
+0.9115723324	outstanding writing
+0.9100309927	independent film
+0.9092975509	canadian screen
+0.9090715923	film directors
+0.9088739301	short film
+0.9087638917	million dollar
+0.9072759184	visual effects
+0.9071102956	motion picture
+0.9065982675	adventure film
+0.9063816427	honorary academy award
+0.9001677343	martial arts
+0.8997621920	supporting actor
+0.8994617703	action film
+0.8986021730	english language
+0.8986007909	storyboard artist
+0.8982907378	feature film
+0.8975324537	high school
+0.8974807322	supporting actress
+0.8962836066	kung fu
+0.8962021592	voice actor
+0.8955710478	romantic comedy
+0.8952214965	short films
+0.8945233367	lifetime achievement
+0.8944539000	life achievement award
+0.8924161763	animated film
+0.8916285723	executive producer
+0.8902693680	jean claude
+0.8902253094	black book
+0.8888036710	action films
+0.8887921636	film critic
+0.8882628618	video game
+0.8877698555	horror film
+0.8877668613	limited series
+0.8871591587	special effects
+0.8862591330	original screenplay
+0.8858303055	music video
+0.8857126677	horror films
+0.8855439400	box office hits
+0.8854725047	animated feature
+0.8835429378	leading role
+0.8832817632	james bond
+0.8831908821	anthology series
+0.8829807833	post apocalyptic
+0.8822376828	superhero film
+0.8817441528	supernatural thriller
+0.8792040298	international film festival
+0.8785775275	berlin film festival
+0.8781416398	film editor
+0.8780091541	openly gay
+0.8779084527	hindi films
+0.8778689277	african film
+0.8778582666	comedy film
+0.8772664924	silent film
+0.8772393545	animation studios
+0.8769621681	comic book
+0.8769254142	telugu cinema
+0.8767550322	supporting role
+0.8755797122	indian cinema
+0.8753807581	world cinema
+0.8750180842	crime film
+0.8749969823	traditional chinese
+0.8748610641	commercially unsuccessful
+0.8741925168	film noir
+0.8740918064	20th century
+0.8737975406	tv series
+0.8725664194	comedy series
+0.8711235266	sci fi
+0.8710815202	critics association
+0.8702137854	drama series
+0.8702070475	golden raspberry awards
+0.8698691772	cahiers du cinéma
+0.8693052764	music videos
+0.8689473589	national board
+0.8685420214	cameo appearances
+0.8682230512	social issues
+0.8680681159	cold war
+0.8677507183	worst director
+0.8674667361	anthology film
+0.8670197794	crime drama
+0.8663845240	large scale
+0.8655486868	film industry
+0.8651794905	adapted screenplay
+0.8650860146	academy honorary award
+0.8639102036	subject matter
+0.8636196521	comic books
+0.8635115372	production companies
+0.8626214833	civil rights
+0.8625952285	romantic drama
+0.8619775907	film school
+0.8613595057	mw parser output
+0.8602559859	supporting roles
+0.8600162406	fantasy film
+0.8593460621	citation needed
+0.8592409933	mini series
+0.8591075666	stop motion
+0.8589991376	sketch comedy
+0.8587793824	saturday night
+0.8584582934	daniel day lewis
+0.8579622294	greatest directors
+0.8578824318	dga award
+0.8571109240	highest civilian
+0.8565535984	latest film
+0.8555183227	historical drama
+0.8549106690	du jury
+0.8535569741	biographical film
+0.8535121848	motion pictures
+0.8524066350	coen brothers
+0.8520009300	allen felt
+0.8512990498	neo noir
+0.8504100949	german cinema
+0.8501847881	comedy drama
+0.8499800406	commercial director
+0.8496568706	simplified chinese
+0.8487403286	toronto international
+0.8487027673	silent era
+0.8476198336	political drama
+0.8467877085	films include
+0.8467088569	television series
+0.8465238733	theatre director
+0.8458796498	television shows
+0.8455311337	courtroom drama
+0.8448054240	supernatural horror film
+0.8443273804	feature length
+0.8439382483	hindi cinema
+0.8435981335	extreme violence
+0.8418683584	real life
+0.8413091499	hitchcock received
+0.8409424793	live action
+0.8407041062	television producer
+0.8402219487	  million
+0.8401838615	italian american
+0.8398186882	frequent collaborator
+0.8394358706	tamil cinema
+0.8391440722	animated short
+0.8387389600	political thriller
+0.8387319063	modern times
+0.8378397287	achievement award
+0.8377710201	literary adaptations
+0.8368165950	executive produced
+0.8365679811	science fiction
+0.8351406121	national film award
+0.8351111343	comic dialog
+0.8350033157	highest grossing
+0.8347073571	film preservation
+0.8343632800	famous cameo appearances
+0.8341444001	animated films
+0.8327025013	art director
+0.8324393222	film director
+0.8322660346	french cinema
+0.8320193140	thematic elements
+0.8313150858	outstanding british
+0.8311710382	theatrical release
+0.8295974883	debut film
+0.8291220926	rodriguez continued
+0.8286993444	true story
+0.8273476725	box office
+0.8270953463	billion worldwide
+0.8267292162	starring tippi hedren
+0.8267157839	directing debut
+0.8258226885	film historian
+0.8257477076	short stories
+0.8251386751	production company
+0.8251378057	20th century fox
+0.8244893408	medical drama
+0.8236889009	film critics
+0.8228631080	netflix original
+0.8225973201	hindi film
+0.8217612294	wilder directed
+0.8216752754	film genre
+0.8206981581	female characters
+0.8188353559	film series
+0.8183497001	disney animated
+0.8181216548	commercially successful
+0.8179585748	positive reviews
+0.8165233675	hitchcock garnered
+0.8164539993	fantasy drama
+0.8162545945	family friendly
+0.8162018103	television director
+0.8161743716	animation director
+0.8160488503	film producer
+0.8152061469	foreign language
+0.8145408379	action adventure
+0.8144776236	escapist filmmaking
+0.8143719993	gained wider recognition
+0.8139356351	financially successful
+0.8139241059	cult status
+0.8132973146	docu series
+0.8129552109	negative reviews
+0.8125038667	high profile
+0.8124549921	younger brother
+0.8124281723	vietnam war
+0.8122215163	international acclaim
+0.8115687434	complete filmography
+0.8112084716	low budget
+0.8103587163	studio album
+0.8097784183	psychological thriller
+0.8093743635	cult classics
+0.8084092944	crime thriller
+0.8081469004	drama film
+0.8079602271	japanese anime
+0.8076085534	film movement
+0.8075969107	american filmmaker
+0.8063858031	british independent film
+0.8056722127	box office receipts
+0.8054437895	million worldwide
+0.8052811442	long takes
+0.8042596346	box office success
+0.8040859319	adult animated
+0.8040708962	feature films
+0.8035346804	jurassic park achieved box office records
+0.8029276986	older brother
+0.8027245724	highly regarded
+0.8023620567	award winning
+0.8022598223	television commercials
+0.8018973220	commercial failure
+0.8018425641	anthology television series alfred hitchcock presents
+0.8013707746	stage plays
+0.8003627445	hitchcock directed
+0.7998057545	highest paid
+0.7996636130	romantic comedies annie hall
+0.7979981010	love story
+0.7979781225	science fiction thriller
+0.7979476331	slow motion
+0.7978467472	home video
+0.7978141847	oscar nomination
+0.7977591116	neo noir crime thriller
+0.7972443161	children's fantasy
+0.7965918630	theatrically released
+0.7963450309	television programs
+0.7962080224	sports drama
+0.7956450091	lead role
+0.7948083851	rock music
+0.7936562702	action thriller
+0.7927592175	ensemble cast
+0.7926856402	war film
+0.7925451119	psychological horror film
+0.7923839256	career spanned
+0.7918072834	began working
+0.7908780210	alfred hitchcock presents
+0.7908113971	comedy films
+0.7902395502	oscar nominations
+0.7899448732	cult classic
+0.7897911681	visual style
+0.7878940146	directed blackmail
+0.7875973295	british film
+0.7871969724	stage director
+0.7871796820	british television
+0.7870997093	science fiction film
+0.7868377622	debut feature
+0.7867137691	worked extensively
+0.7866871633	received largely negative reviews
+0.7864340225	female director
+0.7855706062	theater director
+0.7853142713	cinematic universe
+0.7851529442	british actor
+0.7849481516	began directing
+0.7846951619	commercial success
+0.7846419727	mystery thriller
+0.7841383970	action sequences
+0.7839303040	black comedy
+0.7830256464	feature film debut
+0.7829852959	writing screenplays
+0.7821160358	screen award
+0.7820522592	romantic thriller
+0.7818149360	comic book writer
+0.7809542375	collectively grossed
+0.7808384701	big budget
+0.7793783116	production designer
+0.7791141550	artistic director
+0.7789197147	music video director
+0.7784800614	owned by metro goldwyn mayer
+0.7784594118	eastwood directed pale rider
+0.7781714921	hbo documentary
+0.7781040078	critically acclaimed
+0.7776265993	gained recognition
+0.7774442235	cinema movement
+0.7769291959	gained widespread
+0.7766748732	letters from iwo jima
+0.7766211717	comedy troupe
+0.7765374173	royal college
+0.7761999923	mixed reviews
+0.7760028191	debut feature film
+0.7745586224	erotic thriller
+0.7743824325	political issues
+0.7741593199	filmmaking styles
+0.7737688161	american film director
+0.7730343523	french filmmakers
+0.7727674304	psychological drama
+0.7718259388	supernatural horror
+0.7703262925	robert de niro
+0.7702447688	huge success
+0.7700835070	spielberg's films
+0.7700367571	awards include
+0.7698275528	hitchcock directed rope
+0.7686379412	subsequently directed
+0.7686165649	epic historical
+0.7684688019	popular culture
+0.7680270051	romantic comedies
+0.7679869302	won awards
+0.7677714053	filmmaking duo
+0.7672798571	spielberg won
+0.7672618677	widespread critical
+0.7670684003	action comedy
+0.7665903319	credits include
+0.7660107691	gangster films
+0.7657894349	notable films
+0.7657416057	oscar nominated
+0.7645881093	guild award
+0.7644567742	acting career
+0.7636504537	visual artist
+0.7633690032	making mystic river
+0.7632823573	primetime emmy award nominations
+0.7630760365	television series including
+0.7626109964	academy award nominations
+0.7624973927	film critic roger
+0.7623135508	television writer
+0.7620892725	  billion
+0.7620866076	dark comedy
+0.7619639599	numerous accolades
+0.7619015201	outstanding british contribution to cinema
+0.7618256429	allen's directorial debut
+0.7615721971	acting roles
+0.7614147583	visual effects artist
+0.7612754966	biggest commercial
+0.7607688107	final film
+0.7605865132	nichols directed
+0.7595815656	psychological horror
+0.7591761337	schindler's list and saving private ryan
+0.7582571848	brother tony
+0.7578733663	lifetime achievement award
+0.7576707407	fantasy adventure
+0.7576288161	academy film award
+0.7570856619	television film
+0.7568138582	critical acclaim
+0.7566649847	short story
+0.7565842738	highly acclaimed
+0.7561615203	received widespread
+0.7559118313	western genre
+0.7558892832	critical reception
+0.7552997430	starred opposite
+0.7543100235	wider recognition
+0.7540530620	palme d'or
+0.7540349514	international recognition
+0.7538409325	guest starring
+0.7537696143	numerous awards
+0.7536435274	continued working
+0.7511188477	hbo series
+0.7502630188	eastwood starred opposite
+0.7496270378	award nominations
+0.7457821849	writing credits
+0.7452330420	production house
+0.7451099828	directed psycho
+0.7449192911	cult film
+0.7448508199	art house
+0.7447114562	leads shot specifically to skirt
+0.7439834571	action comedy film
+0.7439356988	early career
+0.7436358565	executive producing
+0.7427939307	career working
+0.7425513674	james bond films
+0.7419614184	superhero films
+0.7411458407	australian film director
+0.7408856024	biggest commercial success
+0.7408768891	period drama
+0.7403698043	continued directing
+0.7398479979	comedy drama film
+0.7396750772	tamil film
+0.7390610098	primarily worked
+0.7389695350	documentary series
+0.7386482425	highly successful
+0.7379242183	indian film
+0.7377882886	achieved international
+0.7364841332	historically or aesthetically significant
+0.7359946926	allen's films
+0.7340591385	box office records
+0.7338992606	natural born
+0.7337561082	war epic
+0.7327827276	gained national
+0.7325619683	walt kowalski in gran torino
+0.7324809476	widely regarded
+0.7321483161	directors guild of america awards
+0.7319709007	widespread critical acclaim
+0.7318537955	norwegian film director
+0.7304447008	acting role
+0.7302805932	child actor
+0.7298846482	  billion worldwide
+0.7279220447	romantic comedy film
+0.7274879373	silent films
+0.7273736271	disney animation
+0.7265761957	starred james stewart
+0.7264906211	buddy film
+0.7245197338	science fiction horror
+0.7239424136	breakout film role
+0.7236395064	francis ford
+0.7235625034	documentary film
+0.7232554049	jay and silent bob
+0.7211604226	british film magazine sight & sound
+0.7210024991	worldwide box office receipts
+0.7209917395	psychological thrillers
+0.7208802029	works include
+0.7208328582	feature debut
+0.7204199478	canadian director
+0.7193719601	genre films
+0.7191918511	critical success
+0.7189117946	art cinema
+0.7186332653	critically successful
+0.7164161939	the outlaw josey wales
+0.7162110505	guild of america's lifetime achievement award
+0.7154713978	directorial debut
+0.7150641179	highest grossing indian
+0.7143612645	american cinema
+0.7143602634	mystery film
+0.7142637311	gained international
+0.7126021054	notable works
+0.7119019615	emmy award nominations
+0.7118832394	independent films
+0.7112717289	honorary award
+0.7096131097	career directing
+0.7077417109	thriller film
+0.7057329539	starring roles
+0.7056337583	series stranger things
+0.7052810370	slasher films
+0.7049587884	feature length films
+0.7044474897	emmy award winning
+0.7035289185	bollywood film
+0.7021072342	received critical acclaim
+0.7014410463	screenplay academy award
+0.7013483902	directed dollars trilogy
+0.7012221965	title character
+0.7010358489	received numerous awards
+0.7008994654	memorial award
+0.7001016183	english language film
+0.6988609387	garnered critical acclaim
+0.6980547383	won numerous awards
+0.6974329768	the grand budapest hotel
+0.6965927183	golden raspberry award for worst director
+0.6965569431	stanley kubrick britannia award for excellence
+0.6955144889	western film
+0.6954787437	monster film
+0.6944287379	directed include
+0.6943940380	effects artist
+0.6939351198	films including
+0.6934746523	spielberg's early science fiction and adventure
+0.6934502812	founders of amblin entertainment
+0.6917805502	academy award nomination
+0.6894320348	academy award winning
+0.6888450879	born february
+0.6886017363	new york film critics circle
+0.6885058050	directors guild of america
+0.6881671442	national board of review
+0.6867844075	dutch film
+0.6866565135	film critic roger ebert
+0.6857770733	widely considered
+0.6844070265	war drama
+0.6836802356	crime films
+0.6834922023	born november
+0.6834536897	national medal of arts
+0.6831457002	black hawk down
+0.6828329243	science fiction films
+0.6827480518	directed music videos
+0.6824291883	anderson's films
+0.6822222817	covid 19 pandemic
+0.6814262831	stone won
+0.6796182611	malcolm x
+0.6781074250	received mixed reviews
+0.6780704204	feature film directorial debut
+0.6773018657	animated comedy
+0.6764366041	cinema award
+0.6759054366	sci fi action film
+0.6748500414	academy award nominated
+0.6743263684	american film
+0.6743100523	writers guild of america
+0.6735526205	carlito's way
+0.6727934740	sci fi film
+0.6723388036	including sean penn
+0.6722494244	film career
+0.6720447718	james bond film
+0.6713885812	received numerous accolades
+0.6712171414	directorial works
+0.6710533814	film production company
+0.6700372247	comedy duo
+0.6693171672	eastwood directed
+0.6690931471	hong kong cinema
+0.6689098839	born april
+0.6684229777	uncredited film roles and television appearances
+0.6682618509	horror comedy film
+0.6672473567	born september
+0.6665925569	documentary films
+0.6664389733	directing style
+0.6663869381	science fiction action
+0.6655224889	born march
+0.6646371216	documentary filmmaker
+0.6639919309	subsequent films
+0.6636501673	directors guild of america's lifetime achievement
+0.6630053521	film debut
+0.6623804831	starred teresa wright and joseph cotten
+0.6617372398	highest grossing film
+0.6609693363	french director
+0.6608383741	born june
+0.6608083680	television awards
+0.6602540405	american director
+0.6597810646	including stanley kubrick
+0.6586918318	films included
+0.6581696118	x men
+0.6576354756	born july
+0.6573930514	born january
+0.6570889930	crime comedy
+0.6570560000	film awards
+0.6569195139	a star wars story
+0.6565034554	hawaii five 0
+0.6563058879	canadian filmmaker
+0.6559198206	starred as san francisco police inspector
+0.6555002753	highest grossing director in cinematic history
+0.6554178138	she's gotta
+0.6535043236	amblin entertainment and dreamworks studios
+0.6534034577	fourth film
+0.6526257322	feature directorial debut
+0.6524202300	acted in multiple television series
+0.6520864873	starred grant and eva marie saint
+0.6517783560	born december
+0.6512247846	born august
+0.6504997897	innovative film techniques in thrillers
+0.6495330956	making films
+0.6478243341	born october
+0.6451678112	directed numerous
+0.6450561086	pilot episode
+0.6435218346	un certain regard
+0.6435006199	starring stewart and kim novak
+0.6423162098	starring margaret lockwood and michael redgrave
+0.6421809851	kill bill
+0.6418478191	de palma
+0.6414925042	cecil b
+0.6411313831	despicable me
+0.6401080775	writers guild of america award
+0.6397527401	greatest film
+0.6395487198	south korean film
+0.6391343916	starring laurence olivier and joan fontaine
+0.6386499919	directed for american international pictures
+0.6385169752	film academy
+0.6385061114	de niro
+0.6373497388	film festival awarded
+0.6371933709	directing career
+0.6366398891	highest grossing director
+0.6364146249	feature length directorial debut
+0.6361611794	action drama
+0.6342867618	awards including
+0.6340314289	horror story
+0.6339696278	gained critical
+0.6337228028	award nomination
+0.6326760820	american actor
+0.6317154746	best live action short film
+0.6315787052	highest grossing films
+0.6315507764	film adaptation
+0.6312935113	film franchise
+0.6310709581	frears directed
+0.6303375245	primetime emmy award for outstanding
+0.6299493641	critically acclaimed film
+0.6296877312	numerous television
+0.6287205837	top gun
+0.6284511195	greatest american
+0.6270148501	international film
+0.6266689003	critically and commercially successful
+0.6265655590	elaine may
+0.6259952032	du cinéma
+0.6257222721	violence and sexual content
+0.6246578212	hollywood films
+0.6240656552	films explore
+0.6233581815	filmmaking career
+0.6229290729	canadian film director
+0.6207167781	japanese filmmaker
+0.6184715364	irving g
+0.6183591496	british filmmaker
+0.6182651436	horror comedy
+0.6179965432	foreign film
+0.6179314587	modern hollywood
+0.6177577465	primetime emmy award for outstanding directing
+0.6177235807	american filmmakers
+0.6171477033	spanned 65
+0.6159889899	commercial failures
+0.6157686539	home alone
+0.6151823602	original series
+0.6148445802	greatest british
+0.6143923428	art of tim burton
+0.6143275348	home video rights to mgm
+0.6128030796	bafta fellowship for lifetime achievement
+0.6120694607	film making
+0.6116317796	four rooms
+0.6107331502	writer director
+0.6104791134	apollo 13
+0.6099952740	romantic comedy drama
+0.6092285929	film critics association
+0.6083341465	outstanding directing
+0.6072979139	hitchcock transitioned to hollywood productions
+0.6048783009	lead roles
+0.6042844801	received critical
+0.6038688056	independence day
+0.5990271508	successful action
+0.5976981858	motion picture production
+0.5971960389	anthology television
+0.5946963206	american horror
+0.5944914868	studios in separate transactions
+0.5942889494	from dusk till dawn
+0.5942221766	thelma & louise
+0.5940566690	spirit award
+0.5926053782	critically acclaimed films
+0.5908708550	television productions
+0.5900409643	national film
+0.5892027508	feature length film
+0.5886829064	the lady vanishes
+0.5878419581	born american film director
+0.5867544299	new jersey
+0.5863579307	before sunrise
+0.5863552393	escape from alcatraz
+0.5858900649	a beautiful mind
+0.5858355155	british films
+0.5831003118	eastwood portrayed prisoner frank morris in
+0.5826852381	largely negative
+0.5820259300	received two academy award nominations
+0.5817288157	garnered critical
+0.5812251457	firefox and honkytonk man
+0.5807210015	covid 19
+0.5770763367	french filmmaker
+0.5763020392	freaks and geeks
+0.5759990385	american animator
+0.5743368832	australian director
+0.5742933089	biographical sports drama
+0.5717202658	critical and commercial success
+0.5716624544	sight & sound's
+0.5708075579	o brother
+0.5703055100	angels & demons
+0.5696650619	hollywood productions
+0.5696131643	new york university's
+0.5690433018	canadian film
+0.5680674427	the dead pool
+0.5654624915	film history
+0.5641031410	live action adaptation
+0.5634446069	critical and commercial failures
+0.5617182337	canadian american
+0.5606581421	unlawful sexual intercourse with
+0.5603751259	french new wave
+0.5598793344	critical and financial success
+0.5595398254	new yorker
+0.5588023928	directors guild of america award
+0.5572485505	began writing
+0.5568134561	film roles
+0.5556974576	danish film
+0.5543675316	fantasy and horror films
+0.5540241204	animated feature film
+0.5531033864	south korean film director and screenwriter
+0.5527702159	live action short
+0.5519470405	biographical drama
+0.5516693916	magazine sight & sound
+0.5497738496	unable to prevent
+0.5495466223	what's new pussycat
+0.5488484462	spy thriller
+0.5482630757	emmy award for outstanding
+0.5470596983	american film director and producer
+0.5470011788	fathers and letters from iwo jima
+0.5459662424	received international
+0.5444067359	best foreign language film
+0.5395521635	successful films
+0.5389627670	off broadway
+0.5387755191	state film
+0.5382862418	bond films
+0.5379720884	horror thriller
+0.5371901960	horror genre
+0.5367162413	directing numerous
+0.5363569850	british independent
+0.5358504157	works in hindi cinema
+0.5355218646	french film director
+0.5353519492	sleepless in seattle
+0.5346678455	batman & robin
+0.5337820089	including to woody allen
+0.5337539124	film award
+0.5320972672	screen awards
+0.5311029920	directed by abc pictures
+0.5303888415	david di donatello
+0.5296581912	length directorial debut
+0.5279560335	new york university
+0.5279164361	american filmmaking
+0.5278888515	film production
+0.5266523799	new zealand
+0.5259647375	screenwriter and film director
+0.5246227644	coming of age drama
+0.5223905852	stranger than
+0.5214100865	bafta award for outstanding
+0.5208882537	television appearances
+0.5182837864	disney animation studios
+0.5177828450	fiction film
+0.5169891259	film director and film producer
+0.5169331638	directing credits
+0.5138504451	best adapted screenplay
+0.5135230522	film genres
+0.5105552871	gods and monsters
+0.5099348560	sci fi action
+0.5090013194	films starring
+0.5085853208	flags of our fathers
+0.5083146374	award winner
+0.5078123286	ventured into more dramatic territory
+0.5076603157	once upon
+0.5066156010	award for lifetime achievement
+0.5045795965	stand up comedian
+0.5041403673	early 1980s
+0.5040702280	acclaimed works include
+0.5038087869	born american film
+0.5031768919	films and television series
+0.5026843277	won two academy awards
+0.5019566617	new york city
+0.5018872175	feature directorial
+0.5008964045	best international feature
+0.5005525544	film and television director
+0.5000925335	legion of honour
+0.4998057326	master of suspense
+0.4984730309	commercial and critical success
+0.4984521695	film and television achievements
+0.4981794760	turkish film director
+0.4976829951	american masters documentary
+0.4958888412	received mixed
+0.4949920841	foreign language film
+0.4942867514	  million per film
+0.4936876704	film credits include
+0.4933468765	directed escape from alcatraz
+0.4920677240	best original screenplay
+0.4918299503	acclaimed works
+0.4916776513	gained wider
+0.4913850232	film director and screenwriter
+0.4901187567	scheduled for release
+0.4895268515	american films
+0.4891232552	feature film directorial
+0.4888667552	part ii
+0.4888160913	wished to direct
+0.4867834539	film role
+0.4851640887	drama films
+0.4851314228	eight season series rawhide
+0.4842026546	the transatlantic slave trade
+0.4828427018	coming of age
+0.4827659101	sight & sound
+0.4820039190	television and film director
+0.4820002961	won numerous
+0.4811620201	film director and producer
+0.4809892245	best international feature film
+0.4805368865	anthology television series
+0.4789776824	series including
+0.4767871130	animator and film director
+0.4766725035	reunited with hedren on marnie
+0.4763485667	award for outstanding directing
+0.4761098457	film remake
+0.4749032849	live action short film
+0.4743524912	the twilight zone
+0.4729788669	film trilogy
+0.4727166059	catholic concepts of guilt and redemption
+0.4726481280	new york
+0.4716213599	spin off
+0.4711664282	american television and film director
+0.4708120989	selected to compete
+0.4677150580	an honorary doctoral degree
+0.4676394469	studied film
+0.4650224105	film actor
+0.4633839176	another woman
+0.4626558732	starred as confederate guerilla and outlaw
+0.4622502644	american film director and screenwriter
+0.4620507502	musical film
+0.4616303947	european film
+0.4612184878	dial m for murder
+0.4596765999	hall of fame
+0.4595825051	notable films include
+0.4588636047	best supporting actor
+0.4587722537	channel 4
+0.4582512497	documentary feature
+0.4540048691	old men
+0.4535842222	adventure films
+0.4526635166	the eponymous dirty harry
+0.4512489196	domestic gross figures as
+0.4498298071	actor and film director
+0.4487530026	film director and writer
+0.4481118687	film earned
+0.4477197461	winning film
+0.4475839885	american film and television
+0.4461260531	american screenwriter
+0.4455589769	part iii
+0.4417476301	swedish film director
+0.4405107898	for rear window
+0.4403220066	non fiction
+0.4401665974	film and music video
+0.4384978225	also starred ingrid bergman
+0.4374842230	rose to prominence
+0.4370831291	irish film
+0.4365214120	works in hindi films
+0.4311459658	continued to write
+0.4304405066	internationally successful
+0.4282519421	highest grossing western of
+0.4280714393	annual time 100
+0.4269054105	best director oscar
+0.4265039753	film producer and director
+0.4258426759	our lives
+0.4247247670	film directing
+0.4245840502	jay and silent
+0.4244938692	to catch
+0.4243872094	reunited with grant on notorious
+0.4240062298	best picture
+0.4235711231	university of southern
+0.4234587083	wild man blues and
+0.4233781460	live action adaptation of
+0.4227868632	directed films
+0.4223808777	american actress
+0.4210667119	arts and sciences
+0.4210665412	regarded by critics
+0.4205592785	irish film director
+0.4200773312	the untouchables
+0.4195333189	notably 1972
+0.4192085449	comedic slapstick films such as bananas
+0.4180079642	feature film director
+0.4176122746	the lodger
+0.4169675617	acclaimed films
+0.4167445785	the enforcer
+0.4161704684	the wiz
+0.4155281920	the martian
+0.4144317275	earned critical
+0.4143660365	english film and television director
+0.4142538017	the irishman
+0.4140238808	italian film director and screenwriter
+0.4139955453	all spielberg directed films exceeds
+0.4137532490	a single continuous shot
+0.4135480510	best animated feature
+0.4094908688	royal college of art in london
+0.4085583051	penn and robbins respectively won
+0.4083142350	walk of fame
+0.4070727328	house of cards
+0.4067311336	film stars
+0.4066951718	television director and producer
+0.4066264091	million per film
+0.4052584936	already sold
+0.4046614315	sound film
+0.4046113207	spanned many themes and genres
+0.4043988231	best documentary feature
+0.4041231002	early 1990s
+0.4038254428	the director clive donner's british sensibility
+0.4035809868	new york times
+0.4032988232	rose to fame
+0.4027522404	received academy award nominations for
+0.4024900857	received academy award nominations
+0.4020997622	de havilland
+0.4017754103	also starred sean connery
+0.4017172102	categories since ben hur in 1959
+0.4015490837	limited such scenes to three seconds
+0.3991521659	the psychological thriller rebecca
+0.3989161083	american actor and filmmaker
+0.3984821653	greatest and most influential filmmakers
+0.3983065331	wyler films
+0.3976660753	reviews from critics
+0.3970447039	english actor
+0.3967169193	academy award for best adapted screenplay
+0.3961626188	or aesthetically significant
+0.3953714308	also starred cary grant
+0.3953394245	writing and directing
+0.3951938759	critically and commercially
+0.3951583861	eastwood once again won
+0.3947312739	39 steps
+0.3947169193	academy award for best original screenplay
+0.3930055050	directing films
+0.3926397949	received nominations
+0.3924474880	american film and television director
+0.3921598633	computer animated
+0.3895770283	a dramatic japanese spy movie
+0.3892698006	academy award for best documentary feature
+0.3891160286	2011 pbs american masters documentary
+0.3890783863	british film director
+0.3886745235	1992 western unforgiven
+0.3875039062	academy award for best international feature
+0.3870413435	the extra terrestrial
+0.3866726563	the psychological thriller vertigo
+0.3866591616	the stanley kubrick britannia
+0.3865044034	48 hrs
+0.3858621685	critics and audiences
+0.3854306569	during world war ii
+0.3853063005	range of genres
+0.3847036422	academy award for best animated feature
+0.3845403015	  years and began with small
+0.3845025259	number of television series
+0.3840669829	writers and producers
+0.3837135713	hollywood walk of fame to acknowledge
+0.3831524729	critical and financial
+0.3831430196	british director
+0.3828526675	the netflix docu series
+0.3822508037	episodes of television series
+0.3813566384	attention for playing
+0.3806993629	the tonight show
+0.3800848281	variety of genres
+0.3799077747	appeared in several earlier films
+0.3793618431	ventured into
+0.3792550750	years and began
+0.3789963071	new yorker humor
+0.3788677620	the united states national film registry
+0.3777048265	12 angry men
+0.3770018293	the film received critical acclaim
+0.3763203420	married to actress
+0.3759411782	received academy award
+0.3758639558	new wave
+0.3758194640	orion pictures between 1965 and 1992
+0.3757849425	director include
+0.3756307254	1980s and 1990s
+0.3751314786	josey wales in
+0.3750778404	grace kelly on three films
+0.3735146837	three minute intermittent kissing scene between
+0.3733574140	1960s and 1970s
+0.3723433683	directors and producers in film history
+0.3720694800	video director
+0.3718827136	numerous films
+0.3718496439	college of art
+0.3717238465	follow up
+0.3716072069	john david
+0.3707592040	winning three times
+0.3704321242	venice international film festival for
+0.3700409016	continued to direct several comedies
+0.3700327100	wilder directed and co wrote
+0.3697016706	write and direct
+0.3696069067	musical or comedy
+0.3692228264	award for lifetime
+0.3691619021	academy of film
+0.3687332473	1970s and 1980s
+0.3678305566	accolades including
+0.3677465751	venice international film festival in
+0.3676521281	et des
+0.3674016378	greatest films
+0.3670964432	political and social
+0.3663654477	awards and nominations
+0.3662318713	award for outstanding
+0.3659305491	australian film
+0.3659015875	breakout film
+0.3657604388	director and film producer
+0.3657073684	won five academy awards
+0.3656932249	won academy awards
+0.3656260762	academy awards including
+0.3650151191	american television
+0.3647947690	feature film directorial debut with
+0.3634698332	after hours
+0.3625118467	either through performing or composing
+0.3620288538	directing and writing
+0.3606857376	television and film
+0.3603465705	de la
+0.3591622548	s successful film play
+0.3586210067	masters of horror
+0.3577087037	volume 2
+0.3568166780	wrote and directed
+0.3564286569	films set
+0.3558835539	year hiatus
+0.3548408808	london film
+0.3544276253	greatest british film of
+0.3543663682	thriller films
+0.3538545122	film and theatre director
+0.3531409820	most recent acting role
+0.3528697088	english film director
+0.3528303144	talk show
+0.3526819562	eastwood directed and starred as protagonist
+0.3522855684	special jury prize for
+0.3519043826	best director award
+0.3515340689	way but loose
+0.3507383035	french film director and screenwriter
+0.3498408808	german film
+0.3490790554	commercial and critical
+0.3476710766	directors and producers
+0.3468774225	four british academy film awards
+0.3465787142	before transitioning
+0.3451077819	the neo noir crime
+0.3447436624	academy award for best supporting actor
+0.3443591909	career spanning more than four decades
+0.3436627468	theatre and film
+0.3433551111	acclaimed film
+0.3432895465	highest grossing film at
+0.3426367368	award nominated
+0.3424120442	served as executive
+0.3419947540	day lewis
+0.3415153619	the godfather part
+0.3414881487	action and thriller
+0.3414357113	the american film institute's
+0.3411239942	born november 30
+0.3410560572	an academy honorary award
+0.3409468860	continued to direct
+0.3408969155	prime examples of
+0.3408153795	academy award nomination for best picture
+0.3405173975	university of texas
+0.3400070557	after studying
+0.3399622470	1925 release
+0.3396449145	directorial film
+0.3396229590	english filmmaker
+0.3392282858	highest grossing film of
+0.3383656218	eastwood's debut as
+0.3377774330	the british film institute's
+0.3371865793	born american
+0.3366216375	bafta award for best original screenplay
+0.3364536692	writing and producing
+0.3358966104	directed several episodes
+0.3358665526	director and screenwriter
+0.3355179331	hitchcock collaborated with
+0.3349142553	producing and directing
+0.3348191400	national medal of arts in 2010
+0.3346251789	after completing
+0.3341967895	after graduating
+0.3341046845	golden globe award for best director
+0.3336650733	inducted into
+0.3333926936	korean film
+0.3333065670	received numerous
+0.3330239662	indian films
+0.3328392934	by queen elizabeth ii
+0.3326870683	began addressing humanistic issues such as
+0.3321165526	director and producer
+0.3312259822	acquired all
+0.3312005249	film and television
+0.3309518654	academy award for best documentary
+0.3304283008	harry callahan in
+0.3298785173	wrote and produced
+0.3293841963	during world war
+0.3288336765	writer and producer
+0.3286429229	lifetime achievement award from
+0.3278123624	stand up
+0.3275832083	bafta award for best direction
+0.3274624518	the witches
+0.3268951481	including best picture
+0.3257538303	winning films
+0.3254228161	september 11
+0.3249486826	academy award for best foreign
+0.3242816396	directed and produced for warner bros
+0.3241264625	feature film debut with
+0.3234701861	award for worst director
+0.3229769051	language film
+0.3228352635	hollywood film
+0.3214737435	american comedian
+0.3206074973	wrote and starred
+0.3196871597	the grifters
+0.3186761021	producer and screenwriter
+0.3178965600	some like
+0.3178653723	tisch school of
+0.3176341232	grand jury prize at
+0.3168092718	screenwriter and producer
+0.3167175023	the aviator
+0.3152679374	has fallen
+0.3152520793	the chocolate factory
+0.3145043587	directing and producing
+0.3140762654	best editing
+0.3139070177	film director and actor
+0.3137980440	the haunting
+0.3130969400	born 30 november
+0.3121522871	life and death
+0.3114243698	gangs of new york
+0.3114220257	top grossing
+0.3114091260	career in television
+0.3110719729	highest grossing films of
+0.3110466433	national film registry by
+0.3100683483	screenwriter and actor
+0.3095442785	directed and produced
+0.3092823978	the godfather
+0.3092762441	critical and commercial
+0.3091301002	academy award for best actor
+0.3089594784	a south korean film director
+0.3085924757	a british academy film award
+0.3085037040	an academy award nomination
+0.3073034835	a hong kong film director
+0.3068799651	career in hollywood
+0.3064260302	entered into
+0.3055866789	quotations from
+0.3048609276	the marvel cinematic universe
+0.3046634760	films received
+0.3040524255	the kennedy center honor
+0.3037171459	the british film institute
+0.3036494199	american screenwriter and film director
+0.3029199386	the satirical black comedy
+0.3012593372	first feature length film
+0.3007834744	rather than
+0.3000574689	director and writer
+0.2995442376	producer and writer
+0.2989145913	tales from
+0.2982068797	worldwide box office
+0.2972369016	the simpsons
+0.2968735527	career spanning over
+0.2936936928	the incredible
+0.2936739071	in turn licensed
+0.2932102470	this transition
+0.2931838882	into more dramatic territory
+0.2928160414	film credits
+0.2923162618	what's up
+0.2916670251	born november 28
+0.2915680147	academy award for best director
+0.2905230973	producer and actor
+0.2899064302	garnered critical acclaim and
+0.2890583429	writer and actor
+0.2888603595	the magnificent
+0.2886193013	won academy awards for best director
+0.2882153957	two primetime emmy awards
+0.2879684459	box office success for
+0.2870963030	new hollywood
+0.2870367406	worked with actors
+0.2867972072	companion war films flags of our
+0.2864481673	filmmaker and actor
+0.2858767594	successful directors
+0.2857838578	screenwriter and director
+0.2849886130	same title directed by herbert ross
+0.2845694081	academy award for best picture
+0.2845674807	characterized by
+0.2840636068	producer and director
+0.2835676494	& mrs
+0.2834735667	directing and co writing
+0.2825686933	cannes film festival award for
+0.2817185502	the apartment
+0.2816361137	primetime emmy awards for
+0.2812170418	award for best international feature
+0.2810156012	founding member of
+0.2802478488	academy award nomination for best director
+0.2798249483	best original
+0.2797368654	directors from previous stage plays of
+0.2793819373	11 1955 marked
+0.2782174369	length films
+0.2780709408	september 1949
+0.2779570549	popularly known
+0.2772303789	highest grossing director in
+0.2771395403	director to win
+0.2770125071	born november 17
+0.2761868734	the afi life achievement award
+0.2761245347	six academy award nominations
+0.2757477603	film magazine
+0.2755817161	born august 25
+0.2753921687	produced and directed
+0.2753608180	born 23
+0.2748947001	two golden globe awards
+0.2747782462	a golden globe award
+0.2737860716	the venice international film
+0.2735246283	the naked
+0.2719260221	most commercially successful directors
+0.2714960942	the british film industry
+0.2714886205	writer and director
+0.2711954396	most acclaimed works include
+0.2703903105	awards for directing
+0.2700361479	born july 24
+0.2699534194	october 1943
+0.2693639133	director and actor
+0.2689880921	born 4 march
+0.2684858795	an american film director
+0.2681668746	designer and director
+0.2679952838	directed and co wrote
+0.2676426664	the fugitive
+0.2676109618	born march 20
+0.2671120690	eight academy award nominations
+0.2669658887	third highest grossing
+0.2664888912	the birds
+0.2662638657	written and directed
+0.2657508105	born 26
+0.2656878901	three golden globe awards
+0.2649916638	the dream
+0.2643309207	according to box office mojo
+0.2642842690	berlin international film festival for
+0.2636641213	english film
+0.2634432725	woman to win
+0.2633335339	cannes film festival for
+0.2627456677	owing to
+0.2627317138	writer and performer
+0.2627091744	re dubbed in english with completely
+0.2617550147	award for best animated feature
+0.2615742396	received critical acclaim for
+0.2615374185	more recently
+0.2615120421	predominantly works in
+0.2609199837	actor and producer
+0.2605682203	award for best motion picture
+0.2603754367	2022 cannes film festival
+0.2598251488	award for best documentary feature
+0.2595911212	robert b
+0.2595817700	dench in
+0.2587695768	september 14
+0.2583547793	august 28
+0.2581378234	contribution to cinema
+0.2579183457	academy award nominations for best picture
+0.2577409864	march 31
+0.2573529148	episodes of television
+0.2570397149	filmmaker and artist
+0.2568558875	guide to
+0.2565816505	august 30
+0.2565257034	born 15
+0.2550652946	earlier films
+0.2550566880	2017 cannes film festival
+0.2549029856	$ 575   million
+0.2548867113	academy award nominations for best director
+0.2547360991	directed by herbert
+0.2540135547	born 29
+0.2535060273	filmfare award for best director
+0.2534974834	2012 cannes film festival
+0.2534523872	born september 15
+0.2533253110	actor and director
+0.2526436207	film adaptations
+0.2526034976	november 19
+0.2526033619	widespread critical acclaim for
+0.2525562206	born september 11
+0.2524218754	born april 7
+0.2518656152	award for best director
+0.2515989284	year old
+0.2513439199	number of television series early in
+0.2510752920	film to date
+0.2509537645	now property of american broadcasting company
+0.2508738331	the 21st century
+0.2508499089	and sexual content
+0.2507035690	june 22
+0.2502537928	influenced by european art cinema and
+0.2496905390	britannia award for excellence in
+0.2496477606	award for best adapted screenplay
+0.2496320302	nominated for two academy awards
+0.2492566560	august 29
+0.2491916171	directed and starred
+0.2491048618	grossing films of
+0.2486897153	collaborating with
+0.2486500286	contributed music to
+0.2485531676	won best director
+0.2485477121	an indian film director
+0.2483761928	the killing
+0.2479920822	blockbuster film
+0.2479338245	george a
+0.2477753440	mismatched with
+0.2471931921	director of film and television
+0.2463702879	born 25
+0.2462157485	the ecumenical jury
+0.2458695393	the toronto international film festival
+0.2457548248	the matrix
+0.2452886902	focusing on
+0.2452005165	biggest commercial success of
+0.2449565934	best direction
+0.2447860597	born 20
+0.2447389553	best director
+0.2446816923	september 10
+0.2446263631	other notable films include
+0.2443522208	born 28
+0.2433667017	the man from u.n.c.l.e
+0.2432713199	best actress
+0.2430954353	award for best original screenplay
+0.2430927272	to elicit
+0.2430106182	a space
+0.2428493127	actor and filmmaker
+0.2422976483	the science fiction comedy
+0.2422973888	most internationally successful
+0.2422180717	the biographical sports drama
+0.2415646713	returning to
+0.2413500286	directorial debut with play misty for
+0.2411957979	harry potter and
+0.2403984896	nominated for two academy
+0.2399868930	award nomination for best director
+0.2396948126	screened at
+0.2392786906	best screenplay
+0.2386541021	nominated for three academy awards
+0.2384403455	award for best screenplay
+0.2383640903	tv show
+0.2383556600	born 18
+0.2376937028	number of films
+0.2376721691	the romantic comedy drama
+0.2373127692	grossing film of
+0.2363911176	the venice film festival
+0.2358660918	hollywood's most
+0.2351667008	allen appeared as
+0.2340739248	directed episodes for
+0.2330224428	best motion picture
+0.2329671558	second unit director
+0.2324032553	an english film director
+0.2321314917	1965 comedy what's new pussycat
+0.2318592712	co creator
+0.2314871256	characterised by
+0.2310273189	screenwriter and cinematographer
+0.2309349805	eastwood starred in
+0.2304295160	nominated for four academy awards
+0.2302131371	$ 10   billion worldwide
+0.2298390930	the fast
+0.2287983659	born 24
+0.2287302763	born 22
+0.2287060278	sometimes credited
+0.2286839689	the worldwide box office
+0.2286336113	the russo brothers
+0.2284611494	born 17
+0.2283738773	dealing with
+0.2279951181	born 7
+0.2278191887	the mid 1980s
+0.2274222982	academy awards for best picture
+0.2271529211	film and music
+0.2270445258	graduated from
+0.2267962844	the berlin international film festival
+0.2267314223	director and filmmaker
+0.2265538409	an honorary academy award
+0.2264021128	award for directing
+0.2263964945	most recently
+0.2254851979	title designer and art director for
+0.2252191185	born 2
+0.2249606444	academy award nominations for
+0.2245817235	film and television director and producer
+0.2245655170	top 100
+0.2234863261	three academy award nominations
+0.2231143342	widely regarded as
+0.2231122858	advocate for
+0.2229847890	a british film director
+0.2227448857	insertion of
+0.2227218695	national film awards and
+0.2224498203	the cannes film festival
+0.2223643929	january 10
+0.2222809483	a german film director
+0.2220330195	born 19
+0.2214399487	born 31
+0.2208127988	influential filmmakers of
+0.2205688512	born 10
+0.2205128161	emmy award for outstanding directing for
+0.2204100186	unable to
+0.2203706533	born february 3
+0.2195951281	april 24
+0.2191960870	the early 1920s
+0.2190566233	directed strangers on
+0.2188470434	the longest
+0.2181461400	a french film director
+0.2178092780	before moving
+0.2177936868	english film director and
+0.2177585816	grossed over
+0.2173631941	award for best supporting actor
+0.2171784708	the fast & furious franchise
+0.2171355841	length film
+0.2170191346	the wachowskis
+0.2167788843	award for best direction
+0.2165566129	the academy award winning
+0.2160418106	academy award nomination for
+0.2158814393	grossed more than
+0.2158369827	highest such honor given by
+0.2154002550	an american film actor
+0.2152901168	a career spanning
+0.2147344230	march 1959
+0.2145635882	award for best actress
+0.2144358195	an italian film director
+0.2143294771	director and cinematographer
+0.2139054347	centered on
+0.2133770772	filmmaker and screenwriter
+0.2133283548	with interiors
+0.2128937725	the sundance film festival
+0.2123420111	the spy thriller north by northwest
+0.2121988445	makes use of
+0.2118727434	born 6
+0.2118231433	june 26
+0.2116710898	most notable films include
+0.2115583105	the american film institute
+0.2115411901	further success
+0.2114597057	directed by robert b
+0.2114238499	a nightmare on elm street
+0.2114158153	extensive use of
+0.2111737150	the twilight
+0.2111680625	independent spirit award for
+0.2107768591	film work includes
+0.2105895049	born 5
+0.2103645824	born 30
+0.2097340736	an australian film director
+0.2093838174	the academy award nominated
+0.2091706248	serves as
+0.2091358964	the secret
+0.2090986865	all about
+0.2090536748	co founded
+0.2088827400	award for best documentary
+0.2082313594	prizes at
+0.2074489625	engaging in
+0.2069913346	screenwriter and film
+0.2069258058	jury prize at
+0.2068924383	a japanese film director
+0.2066996195	the mid 1990s
+0.2066256773	july 26
+0.2065861531	grossed over us
+0.2064553779	a south korean film
+0.2053446353	did not
+0.2043519469	a primetime emmy award
+0.2040051111	february 5
+0.2037370284	series of films
+0.2036613891	the london fog
+0.2035539267	the daily
+0.2029869497	best animated
+0.2028603451	awards for best director
+0.2027177365	an american film producer
+0.2024923944	the bourne
+0.2024626580	most important
+0.2024066357	a film production company
+0.2022167019	academy awards for best director
+0.2019363176	focused on
+0.2018569871	responsible for
+0.2018268965	the anthology television series
+0.2016204469	the right thing
+0.2013304810	a swedish film director
+0.2009520650	lee's work
+0.2006825835	born 1
+0.2006299554	second unit
+0.2003531772	two academy award nominations
+0.2001310405	films and television
+0.2000524153	3 three of spielberg's films jaws
+0.1997440605	best actor
+0.1996103320	to prevent
+0.1995540004	born 27
+0.1993799081	of hong kong cinema
+0.1989089047	film and theatre
+0.1989070551	best music
+0.1988191875	the true story
+0.1987651709	best supporting actress
+0.1982586839	february 19
+0.1981704159	received largely
+0.1979146629	best remembered
+0.1977727464	years later
+0.1974802912	no country for old men
+0.1974176591	january 2017
+0.1970103574	june 25
+0.1964978695	and music video director
+0.1962324118	a feature film director
+0.1956886152	other works of non fiction
+0.1956513718	the venice international film festival
+0.1952759820	the crypt
+0.1945565572	born 12
+0.1944511100	consisting of
+0.1943156162	national film award for
+0.1943149615	lack of
+0.1943101658	depictions of
+0.1941454841	the wolf of wall street
+0.1941148310	november 27
+0.1940565572	born 21
+0.1936405872	film to win
+0.1933031036	born 4
+0.1932963134	a spanish film director
+0.1930406579	november 28
+0.1929511207	most famous
+0.1929337207	october 23
+0.1929283716	slow motion and
+0.1927224268	nominations for best picture
+0.1926791267	american documentary
+0.1925569502	best film
+0.1921789707	born 16
+0.1921657285	david di
+0.1915100734	appeared in three documentaries about
+0.1914295008	remembered for
+0.1913964726	nomination for best director
+0.1913565830	nominated for best director
+0.1913543402	the institute
+0.1912070319	prior to
+0.1911394853	resides in
+0.1910924766	nominations for best director
+0.1910287677	july 19
+0.1909416072	born 14
+0.1908947919	new zealand film director
+0.1905857464	top ten
+0.1904723047	award for best actor
+0.1903711381	a norwegian film director
+0.1902457706	best feature film
+0.1902061245	a financial success
+0.1896783230	december 24
+0.1896482948	dozens of
+0.1896060452	the covid
+0.1895632995	october 30
+0.1891533230	august 24
+0.1889690934	born 9
+0.1883653715	popularly known as
+0.1878928048	born 8
+0.1877304635	a very
+0.1876733619	august 6
+0.1875346380	directed films across
+0.1873012522	an ensemble cast
+0.1872248505	co founder
+0.1869374829	director and producer of film
+0.1869107107	exploration of
+0.1865445734	accolades throughout
+0.1864607512	independent spirit award for best
+0.1863634119	many themes and genres
+0.1863234589	nichols and may
+0.1862028264	another western
+0.1861829842	services to
+0.1859510729	bafta fellowship for lifetime achievement from
+0.1859340417	inspired by
+0.1856360179	studied film at
+0.1855070860	annual time 100 list of
+0.1854976310	wider recognition with
+0.1854115950	november 17
+0.1852151124	the return
+0.1849012506	adapted into
+0.1848861293	born march 1
+0.1847213569	best foreign
+0.1845858650	november 30
+0.1845046736	march 10
+0.1843225534	march 11
+0.1842009609	roles in films
+0.1838737171	cult following
+0.1837634962	the founders
+0.1837311794	the berlin film festival
+0.1835645657	the muppet
+0.1834146550	directorial debut with
+0.1831533230	december 17
+0.1827893423	the wind
+0.1827732447	collaborates with
+0.1825357975	the beatles
+0.1822380903	the prince
+0.1817594579	war films
+0.1816720302	nominated for best picture
+0.1815571104	october 15
+0.1814239221	a canadian film director
+0.1810725592	silver bear for best director at
+0.1810571104	september 13
+0.1810016342	second best
+0.1801190515	the tramp
+0.1799413041	won best actor
+0.1799064366	serving as
+0.1797147764	born may 14
+0.1794169674	march 20
+0.1793543596	academy award nomination for best
+0.1793530920	most recent
+0.1786630388	100 greatest
+0.1784350445	emerged as
+0.1783654824	this time for million dollar baby
+0.1781631258	a danish film director
+0.1773152268	forced to
+0.1772035659	golden globe award for best
+0.1771865613	international film festival in
+0.1766960383	contributed to many projects as
+0.1759154400	the texas
+0.1751565764	golden globes and
+0.1748744210	seen as archetypes of modern hollywood
+0.1743579696	the tales
+0.1741934502	50 greatest
+0.1741839470	graphic novel
+0.1739489720	grand prix at
+0.1737893264	born 13
+0.1736688849	founders of
+0.1735720400	the tonight show as guest host
+0.1734647851	primetime emmy award for
+0.1732591509	the hills
+0.1728305994	an irish film director
+0.1727035553	the un certain regard
+0.1725170172	december 15
+0.1722953464	the national film registry
+0.1721885154	in mystic river
+0.1720507083	partnership with
+0.1719611044	the psychological horror film
+0.1718130250	moving into
+0.1712414506	what's new
+0.1705972350	the film received
+0.1705928247	december 9
+0.1704489868	golden lion at
+0.1702865942	bafta award for best film not
+0.1702466972	people in british culture
+0.1698222914	over 60
+0.1698054221	the film topped
+0.1695328032	came to prominence
+0.1690155551	the piano
+0.1687896249	award for best film
+0.1685745744	received nominations for
+0.1685189032	into live action footage in
+0.1682007436	july 1
+0.1681945161	born 11
+0.1681112231	co created
+0.1679542281	winning twice
+0.1679170432	the princess
+0.1678914152	premiered at
+0.1677205442	the royal
+0.1675918314	the new york times
+0.1667864254	most notably
+0.1666571369	older brother of
+0.1666378449	april 9
+0.1664267923	to kill
+0.1663805224	contributions to
+0.1663502089	received critical acclaim and
+0.1662152710	august 2
+0.1660259960	a knighthood
+0.1659809985	collaborations with
+0.1659674810	referred to
+0.1659552062	a turkish film director
+0.1657920370	a fistful of dollars
+0.1656382690	film not in
+0.1650999476	among others
+0.1650458820	various projects
+0.1647054221	the film suspicion
+0.1642370834	the sergio leone
+0.1631931692	the president's
+0.1630119246	escape from
+0.1627862306	$ 14   million per film
+0.1624857254	the world war ii
+0.1623990515	the apes
+0.1622054221	the film foundation
+0.1620447228	an american animator
+0.1619331015	released in 2012
+0.1611759146	the title role
+0.1602977660	césar award for best
+0.1600686502	july 5
+0.1599170358	three times
+0.1598316145	palme d'or at
+0.1596743608	the lady
+0.1596562627	7 in 1935
+0.1596447539	successful film
+0.1593901343	born 3
+0.1590854982	nominated for
+0.1587763417	contribution to
+0.1587357173	masters of
+0.1587238954	best actor and best supporting
+0.1586687168	executive producer of
+0.1585199276	debut on television as
+0.1585178438	returned to
+0.1585166848	body of work
+0.1582390697	served as
+0.1580274813	deal with
+0.1579871060	best documentary
+0.1579112653	the library
+0.1578314833	the don
+0.1578143100	american film institute's top ten in
+0.1576793950	the african
+0.1570330410	an american
+0.1569766988	found widespread critical acclaim for
+0.1564248339	the lifetime achievement award
+0.1563943939	the red
+0.1558113093	diary of
+0.1555920680	film adaptation of
+0.1546935076	an austrian
+0.1546423284	filmfare award for best
+0.1546375842	the thematic elements
+0.1545219698	the palme
+0.1545204702	outstanding directing for
+0.1543467819	the mystery genre
+0.1542961135	the good
+0.1541669692	oscar nomination for
+0.1541587734	academy award for
+0.1540413084	the beach
+0.1539043007	the girl
+0.1538651475	commonly known
+0.1537766314	august 7
+0.1536021750	noted for
+0.1535998008	directed episodes of
+0.1535260371	the library of congress
+0.1533040552	over 50 years
+0.1529816629	an american filmmaker
+0.1526995424	films by other directors
+0.1526202301	both writer and performer
+0.1525082917	july 24
+0.1524411111	marked by
+0.1520690861	welcome to
+0.1518764775	co wrote
+0.1518345113	100 list
+0.1517346568	an emmy award
+0.1515407911	the edge
+0.1508712192	an american actor
+0.1506294382	an irish
+0.1504269852	a live action
+0.1503895238	golden bear at
+0.1503384659	actor and film
+0.1502348332	the grand jury prize
+0.1500663088	the academy of science fiction
+0.1498932936	the late 1980s
+0.1498539172	artistic director of
+0.1497983298	april 7
+0.1497610063	proved to
+0.1492829046	collectively known as
+0.1491621314	producer began in 1982 with two
+0.1482063557	based on
+0.1480728322	film debut with
+0.1479384771	various genres
+0.1478136160	lead roles in
+0.1477724209	8 hitchcock worked with fontaine again
+0.1474939646	collaborated with
+0.1473986075	moved to
+0.1472999584	over 50
+0.1465116784	award for excellence in film from
+0.1465057779	regarded as
+0.1464489626	best first
+0.1463425834	the film cry macho
+0.1461115375	most successful
+0.1459318439	the last temptation of christ
+0.1457864508	$ 1 billion
+0.1457793304	the golden globe cecil b
+0.1452594951	9 in 1948
+0.1450168306	grammy award for best
+0.1450083694	co written
+0.1449223776	into live action
+0.1446873974	younger brother of
+0.1446478309	over 60   films
+0.1444863990	the kennedy
+0.1443796051	music videos for
+0.1439732903	an israeli
+0.1438801732	another psychological thriller shadow of
+0.1427333479	led to
+0.1426669792	the heat
+0.1425267661	the wedding
+0.1424683772	the big
+0.1424357110	portrayal of
+0.1424056581	in addition
+0.1421928232	the united states
+0.1421724153	1 2 hitchcock started
+0.1420683743	50 years
+0.1419009583	greatest films of
+0.1417419771	into more dramatic
+0.1411570374	co produced
+0.1407845256	the wolf
+0.1407607225	the wall
+0.1405800652	first feature
+0.1403258402	the rain
+0.1399333524	best director nomination
+0.1398819242	an american screenwriter
+0.1393853583	likely to
+0.1393271076	first feature film
+0.1389622147	a dangerous
+0.1388367010	and came to epitomize
+0.1384409756	tony award for best
+0.1384176184	focus on
+0.1381690986	achievement award from
+0.1379242879	american writer
+0.1371357008	nomination for best picture
+0.1371282903	an auteur
+0.1370424159	two sequels
+0.1370342967	the son
+0.1369739287	credited as
+0.1369393967	well as receiving six other nominations
+0.1369024130	the killer
+0.1368887392	to die
+0.1368633378	the concert for new york city
+0.1364707899	almost all
+0.1364502877	depiction of
+0.1363133366	with two films
+0.1359678289	an american director
+0.1359303280	guilty to
+0.1356709201	a south african
+0.1356453373	saturn award for best
+0.1355032660	schindler's list and
+0.1351914436	once again
+0.1351821706	directors guild of america award for
+0.1351808539	gained recognition for
+0.1350340016	the golden
+0.1350281462	the action comedy every
+0.1346607225	seven years
+0.1345711653	from europe with love in 1980
+0.1344894831	best director and best adapted screenplay
+0.1343431748	adapted from
+0.1343345490	an english director and filmmaker
+0.1342675921	best short
+0.1342118162	an australian
+0.1341652362	most prominent
+0.1340817766	most prolific
+0.1336434249	bafta award for best
+0.1333824154	the odd
+0.1325403786	directed by robert
+0.1324732517	the village
+0.1319761965	most commercially successful
+0.1312649342	commonly known as
+0.1312047336	best picture and best director
+0.1312025896	companion of
+0.1309582259	appeared in
+0.1309082599	critical acclaim and
+0.1301710055	the same category
+0.1301067923	most popular
+0.1298494940	britannia award for
+0.1297249062	considered one of
+0.1296391885	most influential people in british culture
+0.1296054196	before moving into
+0.1295711653	a 2009 recipient
+0.1295354510	and spawned four more films
+0.1293622050	married to
+0.1293257283	the film won best picture
+0.1292769376	the spider
+0.1292598365	most influential people
+0.1290857036	portrait of
+0.1290380669	best film and best director
+0.1290279010	the great
+0.1290009700	chairman of
+0.1288406985	all time and also topped
+0.1288156030	three minute
+0.1287732265	psychological thrillers and
+0.1286992973	adaptation of
+0.1285909756	directing and starring in
+0.1285849951	bafta award for
+0.1284320704	state of
+0.1283311095	three emmy awards
+0.1281300375	film adaptations of
+0.1280920971	the white
+0.1279676914	the founder
+0.1270172021	100 most influential
+0.1267643070	co starred
+0.1265829992	ten years
+0.1264751814	competition at
+0.1264694164	sam from
+0.1263940552	the devil
+0.1263080747	a life in film in 2001
+0.1262158010	critical acclaim for
+0.1259981110	the long
+0.1257460396	starred in
+0.1253395583	the biggest
+0.1251351663	first feature length
+0.1251211580	live in
+0.1250259084	born in
+0.1249989802	born may
+0.1248388652	in robin hood
+0.1246400395	a list of american films
+0.1245981575	the rise
+0.1244115870	film directed by
+0.1241537131	most influential
+0.1241475654	dawn of
+0.1239399076	the government of india
+0.1237331755	five academy awards
+0.1236298647	first commercial and critical success
+0.1235517300	the motion picture
+0.1235505651	episodes of
+0.1231537990	referred to as
+0.1229467311	directors guild of
+0.1222010017	the kingdom
+0.1218254069	one man
+0.1217875724	a few dollars more
+0.1215353355	an executive producer
+0.1215205636	role as
+0.1215159063	5 6 7 8 9 10
+0.1214793185	the new hollywood era
+0.1214214936	to create
+0.1212648032	a minor
+0.1212502739	the sky
+0.1212372320	the last
+0.1206930398	festival award for
+0.1206681646	member of
+0.1204307307	three bafta awards
+0.1203765651	released in
+0.1203727010	an american actress
+0.1202573652	in addition to works of fiction
+0.1202367657	best director and best original screenplay
+0.1199981399	the moon
+0.1198472722	nominations for
+0.1198267985	the real
+0.1195881467	best picture and best original screenplay
+0.1195179707	written by
+0.1193797771	a life in pictures
+0.1193767819	29 feature films
+0.1193123043	career in
+0.1190721349	the low budget
+0.1189145682	second academy award
+0.1188984701	february 3
+0.1187810470	the young
+0.1185861822	return of
+0.1184209286	widely regarded as one of
+0.1184182647	the worldwide box office receipts of
+0.1183031086	the neo noir
+0.1182385730	an english filmmaker
+0.1180478205	to live
+0.1180165939	the state
+0.1179305807	an american playwright
+0.1179017545	the office
+0.1178241350	worked as
+0.1176704834	an american actor and filmmaker
+0.1176170135	founder of
+0.1175379241	according to
+0.1174358837	the united kingdom
+0.1173218517	version of
+0.1172473520	an iranian
+0.1171851533	the vietnam war
+0.1170547369	six academy awards
+0.1169930762	widely known
+0.1168180386	influenced by
+0.1168171567	more dramatic
+0.1166943075	best known works include
+0.1165485939	worked on
+0.1163826475	national film award for best
+0.1160675625	prize for best
+0.1160045388	the body
+0.1158514222	two emmy awards
+0.1157715688	met with
+0.1155164742	return to
+0.1153708856	reunited with
+0.1153342188	in italy
+0.1152303455	pioneers of
+0.1151907065	award at
+0.1150937175	featured many of
+0.1148156925	the lost
+0.1145906985	the before trilogy
+0.1145874851	nomination for
+0.1145594757	ability to
+0.1143301285	jury prize for
+0.1142033779	an academy award
+0.1141865562	work includes
+0.1140514717	reputation as
+0.1138898396	edge of
+0.1138513046	the best years of our lives
+0.1137209057	3 hitchcock followed
+0.1135230909	an indian filmmaker
+0.1134538214	winning six
+0.1132034376	school of
+0.1131852459	to win
+0.1130675514	eastwood made
+0.1129988541	selected to compete for
+0.1129468171	award for best
+0.1129220193	other films include
+0.1127362580	premiered on
+0.1127064438	best actor and best supporting actor
+0.1126512044	to compete
+0.1125980057	recognized as one of
+0.1125446207	career as
+0.1124917583	list of
+0.1124866472	co writing
+0.1123724600	roles in
+0.1120552342	11 12
+0.1118047864	further critical
+0.1116852459	an honorary
+0.1116817261	in europe
+0.1116780541	more than
+0.1113720935	the early 1980s
+0.1113562033	the children's
+0.1113177068	award for
+0.1113126473	the netflix series
+0.1112496374	continued to
+0.1110428947	worked with
+0.1106549684	top prize
+0.1105651405	most notable
+0.1105138501	director for
+0.1104943094	the sea
+0.1104190497	a south korean
+0.1104183982	working on
+0.1103658942	two academy awards
+0.1103327282	executive producer on
+0.1100678530	worked in
+0.1099986474	debut as
+0.1098937449	an english
+0.1097807277	an american comedian
+0.1097488434	the fall
+0.1096186306	played by
+0.1094645606	the wild
+0.1093712076	award for excellence in
+0.1092799017	film debut in
+0.1092018808	new zealand film
+0.1091147864	academy awards for
+0.1090295953	awards for
+0.1088351536	co wrote and directed
+0.1087523585	regarded as one of
+0.1086134848	criticized for
+0.1081236208	the queen
+0.1080837620	went on to direct
+0.1079821123	beginning with
+0.1079610201	the train
+0.1078619695	also directed numerous
+0.1074657283	the action adventure
+0.1074227014	the american film institute's top
+0.1073466219	well received
+0.1072937343	president of
+0.1071924355	voice actor and
+0.1071236208	the kid
+0.1070369485	in america
+0.1068876621	the horror genre
+0.1067655734	three academy awards
+0.1066875254	a hong kong
+0.1066261777	a star
+0.1064387029	a better
+0.1063856964	two directors guild of america awards
+0.1063441178	the primetime emmy award
+0.1063355151	as of 2021
+0.1061875842	a doubt
+0.1060365315	acclaim for
+0.1060235338	an american writer
+0.1059609012	the early 1990s
+0.1058760269	remake of
+0.1057500574	released on
+0.1057388915	the pilot episode
+0.1056952349	winner of
+0.1056920828	films like
+0.1056502933	emerged as one of
+0.1055706029	the world
+0.1054101329	to date
+0.1053124969	starred as
+0.1051587106	an african american
+0.1051277873	works in
+0.1050656210	directed by
+0.1050158459	all time
+0.1049561582	executive producer for
+0.1048357157	a silver lion
+0.1048033883	a spanish filmmaker
+0.1047533530	praised by
+0.1044473279	based in
+0.1042153646	success with
+0.1041173034	themes of
+0.1038577577	owned by
+0.1037316981	film festival in
+0.1036913876	films directed by
+0.1036487370	figure in
+0.1036349014	second feature film
+0.1036153349	a beautiful
+0.1036115430	use of long takes to make
+0.1036091402	several accolades
+0.1035501400	films such as
+0.1035043230	role in
+0.1034771419	the little
+0.1034485485	excellence in
+0.1032663567	set in
+0.1032520823	film festival for
+0.1032298485	the english language
+0.1030366149	screened in
+0.1029243871	on january
+0.1029120499	the batman
+0.1029038743	the first two episodes
+0.1027632510	a canadian filmmaker
+0.1026811164	the world's
+0.1025352909	documentary about
+0.1024432134	days of
+0.1021398465	a scottish
+0.1021233406	a silver bear
+0.1021225810	produced by
+0.1020348757	born c
+0.1019960977	head of
+0.1019574486	filmmakers of
+0.1017791898	films ever made
+0.1017243058	a golden globe
+0.1017056452	revival of
+0.1016585756	died at
+0.1014880824	a british television
+0.1014330809	a bafta award
+0.1014242307	before becoming
+0.1014085349	the hbo series
+0.1011705383	involved in
+0.1010330420	director of
+0.1009421246	included in
+0.1009128449	prisoner of
+0.1008305931	an american film
+0.1008305389	more than four decades
+0.1008057865	directed more than
+0.1007164482	scheduled for
+0.1006554760	a canadian american
+0.1005871481	crimes of
+0.1005646643	for outstanding directing
+0.1005067470	film festival award for best
+0.1002451786	prince of
+0.1001604313	the coen brothers
+0.1000959411	an english film director and producer
+0.0997775872	the palme d'or
+0.0997275420	to write
+0.0996531406	the global
+0.0994320554	documentaries about
+0.0994064557	best known films include
+0.0993888295	science fiction and
+0.0992771039	perspectives of
+0.0992211127	an australian filmmaker
+0.0990838451	several television series
+0.0990381963	appeared on
+0.0988914491	1966 film what's up
+0.0988310892	screenplays for several
+0.0988250440	to los angeles
+0.0987479877	an american documentary
+0.0986812016	the seventh
+0.0985732875	co directed
+0.0984571809	the first woman to win
+0.0983958294	the sci fi
+0.0983410434	a christmas
+0.0983090515	screenplays for
+0.0982279074	and box office success
+0.0982129621	sequences in
+0.0979407937	an indian
+0.0979121741	rose to fame in
+0.0976897966	a child
+0.0976436943	an american film and television director
+0.0976266055	the fox
+0.0976154939	the spy
+0.0975381080	the dragon
+0.0975098825	best known for co directing
+0.0973030599	night of
+0.0970720047	adaptations of
+0.0969754385	an interest in filmmaking
+0.0969254315	the silver bear
+0.0968123202	from new york university's
+0.0968029743	collaboration with
+0.0966363828	jury at
+0.0965748585	accused of
+0.0960683538	the award winning
+0.0960580473	the same title
+0.0960455738	palme d'or for
+0.0960026750	four academy awards
+0.0959767312	the comedy duo
+0.0957782096	a household name
+0.0956509369	the battle of iwo jima from
+0.0955528795	named after
+0.0953613843	the television series
+0.0953538237	an assistant director
+0.0953499115	debut with
+0.0953425271	a british filmmaker
+0.0952382186	emmy awards for
+0.0952242530	a child actor
+0.0950755188	a swedish
+0.0949962659	the comedy films
+0.0948499374	commercial success with
+0.0948167950	japanese film
+0.0948148271	a chinese
+0.0945969874	other notable films
+0.0945731267	produced more than
+0.0945199508	the golden globe award for
+0.0944580958	the science
+0.0944199428	the 13th
+0.0943854006	credited with
+0.0942623772	a few
+0.0941424761	a wide range of
+0.0941418205	september 15
+0.0940150519	the 10th
+0.0940048816	owner of
+0.0939243917	a single
+0.0938605024	foundation in
+0.0938258190	the gangster
+0.0937047449	an american film director and screenwriter
+0.0936834418	the country
+0.0936280050	the rings
+0.0933914491	8 eastwood also
+0.0933118359	the biographical drama
+0.0932207825	then moved
+0.0932139318	and television appearances
+0.0932093841	due to
+0.0932066214	nomination for best
+0.0931778635	winning three
+0.0931298085	recipient of
+0.0930824524	the band
+0.0930698770	phantom of
+0.0930113098	with hepburn
+0.0929154317	charge of
+0.0929104424	a british
+0.0928779644	received two stars on
+0.0926934087	césar award for
+0.0924966656	the recipient of several accolades
+0.0924709086	the national medal of arts
+0.0924202996	the golden lion
+0.0923514335	best director and best picture
+0.0922476304	series of
+0.0922419814	the james bond
+0.0920664187	the first person
+0.0919341658	examples of
+0.0919300701	a trilogy of films based on
+0.0919220115	french film director and
+0.0918306917	co writer
+0.0918122021	the horror film
+0.0917334430	the box office
+0.0916180671	person to
+0.0914085995	for outstanding british contribution to cinema
+0.0913859772	film industry as
+0.0913574688	british film of
+0.0912714137	to direct
+0.0912450148	for worst director
+0.0912115728	the game
+0.0911007872	fiction films
+0.0910969874	first sound film
+0.0910388311	first season
+0.0909984979	the rock
+0.0908711204	first film
+0.0907430218	five times
+0.0906752275	time and also
+0.0906710113	association with
+0.0906176229	the film rights
+0.0905630251	true story of
+0.0904799427	on march
+0.0903943475	also directed
+0.0903524407	the legal
+0.0902772902	16 17
+0.0901979070	the man
+0.0901201541	second season
+0.0900713240	a british film and television
+0.0900662735	the show's
+0.0900143990	the science fiction
+0.0899671536	the academy award for best director
+0.0898834485	in los angeles
+0.0898461512	creation of
+0.0897367285	a tony award
+0.0896165361	the film won
+0.0895445692	an episode
+0.0895371147	ran for
+0.0895036685	8 9
+0.0894069058	often collaborates with
+0.0892708025	hall of fame in
+0.0892538533	in france
+0.0892024399	the battle
+0.0891428764	commercial success of
+0.0890707881	the action thriller
+0.0890461010	an american screenwriter and film director
+0.0890020509	and producer of film and television
+0.0889693404	a drama series
+0.0888641283	the 20th century
+0.0888037394	the first film to win
+0.0887686937	a japanese filmmaker
+0.0886715705	the mystery
+0.0886104946	awards for best director and
+0.0886080552	sometimes credited as
+0.0885049325	greatest and most influential filmmakers of
+0.0884399203	an english director
+0.0883907134	the new york
+0.0883631167	the right
+0.0883034237	the golden bear
+0.0882380803	next film
+0.0880663151	hired to
+0.0876969170	a french filmmaker
+0.0876627583	well known
+0.0875926489	a french film director and screenwriter
+0.0875625411	in china
+0.0875244001	four decades
+0.0874811490	an english film and television director
+0.0872952096	house of
+0.0872697767	a commercial success
+0.0871987028	character of
+0.0870225765	received further
+0.0870168513	written many
+0.0869657565	appearing in
+0.0869193295	appeared as
+0.0865964088	the dark
+0.0865048801	active in
+0.0865005671	competed for
+0.0864791970	the official
+0.0864419125	best known works
+0.0863443302	a funeral
+0.0862753257	planet of
+0.0862448546	regarded by
+0.0862254654	the jury prize
+0.0861972867	the founding pioneers of
+0.0861867096	the dead
+0.0861498858	a belgian
+0.0860698219	perhaps best known
+0.0860255055	in paris
+0.0860111056	19 20
+0.0859915556	a box office
+0.0859734070	with robert
+0.0859683958	a woman
+0.0859581294	many accolades
+0.0859110130	prize at
+0.0858148724	many others
+0.0855830429	involvement in
+0.0855407430	attention for
+0.0855342493	the future
+0.0852885440	the tv series
+0.0852081747	the grand prix
+0.0850767982	100 most influential people
+0.0850551371	the musical film
+0.0848830432	the alien
+0.0848344746	the star wars
+0.0846998695	the film included
+0.0846246420	legion of
+0.0844907150	and film director
+0.0843914491	an innocent man on
+0.0843141868	career with
+0.0843002615	known for co directing
+0.0842339852	attention to
+0.0840921572	to gross
+0.0840120780	co directing
+0.0840034816	creator of
+0.0839892163	in hindi cinema
+0.0839725066	31 october
+0.0839467382	the governor
+0.0838545378	the title character
+0.0837468310	to receive
+0.0837222941	the film industry
+0.0837142991	also co wrote
+0.0837018808	the host
+0.0836954092	the biopic
+0.0835574939	a little
+0.0834180308	an american television and film director
+0.0831971836	ever made
+0.0831917431	1939  
+0.0831845153	degree in
+0.0830206653	life of
+0.0829499837	for best foreign language film
+0.0828088030	directorial debut in
+0.0827983841	two golden globe
+0.0827955124	most influential filmmakers
+0.0827800773	variety of
+0.0827654400	the main
+0.0827155183	the old
+0.0827057503	award for outstanding directing for
+0.0826706544	to critical acclaim
+0.0826450565	continued to work
+0.0825960670	3 4
+0.0825541679	directed several
+0.0825497863	the late
+0.0824957810	a television director
+0.0824610844	an indian director
+0.0824553864	the sundance film
+0.0822617261	won three
+0.0821750605	the comedy drama
+0.0821666116	officer of
+0.0821046835	the legend
+0.0820907859	the way
+0.0820627090	known for directing
+0.0819689476	contributed to
+0.0818758685	for warner bros
+0.0818679833	the ensemble
+0.0818114935	nominations at
+0.0817639707	the action comedy
+0.0817302288	as co director
+0.0816489140	performance in
+0.0816374696	award from
+0.0816165959	generation of
+0.0815980737	the venice film
+0.0815953994	the green
+0.0815773146	move to
+0.0814540361	an italian film director and screenwriter
+0.0814203672	raised in
+0.0813825278	acted in
+0.0812828872	cited as
+0.0812303540	co wrote and co
+0.0812152775	the abc
+0.0812133431	the production company
+0.0810388607	the buddy
+0.0809955445	awards from
+0.0809487489	commander of
+0.0807948385	the crime drama
+0.0807868025	films since
+0.0807087861	the live action
+0.0804542823	an american filmmaker and actor
+0.0803021422	a british film and television director
+0.0802751286	a lifetime achievement
+0.0802681427	original screenplay for
+0.0802473385	film based on
+0.0800501664	time 100 list of
+0.0799228297	on screen
+0.0798977878	and film producer
+0.0798401622	a cult classic
+0.0798186082	the world cinema
+0.0797852284	to leave
+0.0797746754	selected to
+0.0797594997	screenplay for
+0.0795978056	poll of
+0.0794994944	themes such as
+0.0793957625	an american film director and producer
+0.0791568735	a norwegian
+0.0790978081	received many
+0.0790886842	formerly known as
+0.0790727487	and terrorism
+0.0790054993	also directed episodes
+0.0789874868	a critical and commercial success
+0.0789468508	a director
+0.0789375923	concepts of
+0.0789339060	the lead roles
+0.0788755070	a variety
+0.0788693169	the university of texas
+0.0787303718	board of
+0.0787096268	first time
+0.0784546955	co executive
+0.0784335502	and screenwriters
+0.0784269288	the walt disney
+0.0783679598	television show
+0.0782633900	living in
+0.0782170444	along with
+0.0781877246	film at
+0.0781592361	a short film
+0.0780975480	territory of
+0.0780965558	awards for best
+0.0779983349	drama films such as
+0.0779729897	10 11
+0.0779569675	directed many
+0.0779566237	a canadian
+0.0777041872	working as
+0.0776359204	a french
+0.0776282152	the first female
+0.0776025714	wrote and co
+0.0776007138	the light
+0.0775145416	gangs of
+0.0774622868	two stars on
+0.0774104755	as director include
+0.0773508704	in tamil cinema
+0.0773484870	the fourth
+0.0772624511	the 21st
+0.0771584501	2 in later years
+0.0765744224	american director of
+0.0765539023	and theatre director
+0.0765370553	a primetime emmy
+0.0765056181	the stone
+0.0763824032	the action film
+0.0763369136	the final
+0.0762878349	the romantic drama
+0.0762763527	the paradise
+0.0762695097	style of
+0.0762379649	the 20th
+0.0761687326	and television director
+0.0761585515	following year
+0.0761509309	filmmakers to
+0.0760586655	the black comedy
+0.0760191248	a young
+0.0759484278	a production company
+0.0759207151	second film
+0.0756474237	a saturn award
+0.0756360032	co director
+0.0756353296	the museum
+0.0755505272	producer of
+0.0754901583	considered to
+0.0753558274	the eponymous
+0.0753410434	the human
+0.0752837511	a time in
+0.0751216279	nominated for best
+0.0751109191	rights to
+0.0750712183	and occasional
+0.0750627090	best known for directing
+0.0750367281	the historical drama
+0.0750343170	the academy award
+0.0750320863	that same year
+0.0749603530	the creator
+0.0748908492	the erotic thriller
+0.0748424796	the cannes film
+0.0747740377	the first
+0.0747202273	a brazilian
+0.0745930501	many genres
+0.0745224237	a grammy award
+0.0744320161	merit in
+0.0744272550	cast in
+0.0744233463	an indian film
+0.0744130341	director award at
+0.0743291526	known professionally as
+0.0742771035	14 15 three years later
+0.0742357023	an actor
+0.0741886217	knighted in
+0.0741594328	in canada
+0.0741584781	the same name
+0.0741505501	the writers guild of america
+0.0740179297	on april
+0.0740093478	writer and director of
+0.0739912972	13 14
+0.0739875675	also wrote for and contributed to
+0.0738909307	the crime thriller
+0.0738644965	the second
+0.0738243642	moving to
+0.0738002970	the war film
+0.0736029086	25 years
+0.0735562469	first sound
+0.0735401991	first in technicolor and
+0.0735271840	a césar award
+0.0734397993	in brooklyn
+0.0733749394	directorial work
+0.0733467823	such as
+0.0732959858	a new
+0.0732868970	all future films from
+0.0732837380	bear for best
+0.0732478415	institute of
+0.0732138352	in seattle
+0.0731637618	17 june
+0.0731460801	nominated for nine
+0.0731307749	the grand jury
+0.0731214725	a fistful of
+0.0731094525	reviews from
+0.0730906038	installment of
+0.0730658552	appearances in
+0.0729974290	helped to
+0.0729787334	and starring in
+0.0729232384	recognized as
+0.0728647464	5 6 7 8
+0.0728333363	went on to
+0.0728200121	the danish
+0.0727928289	co founders of
+0.0727661945	at age
+0.0727543663	a limited
+0.0727325072	actors to
+0.0727217791	transitioned to
+0.0726837556	collaborated on
+0.0726655386	father of
+0.0726414599	the television film
+0.0725694115	the film earned
+0.0725663797	an english director and producer
+0.0725401991	and written many films starting in
+0.0725353856	nominated for three academy awards for
+0.0725066359	for directing
+0.0724688216	oscar for best
+0.0723611835	figures in
+0.0723452461	the musical
+0.0722979121	an indian film director and screenwriter
+0.0721999552	nominations for best
+0.0721746603	the spy thriller
+0.0721504930	directed two
+0.0721202303	the major figures of
+0.0721192855	the furious
+0.0720448714	best director and best
+0.0719660184	the sun
+0.0719638990	working in
+0.0719362311	a visual
+0.0718403954	for lifetime achievement
+0.0718382097	the year
+0.0718024803	section of
+0.0717619111	go on
+0.0717451433	12 13
+0.0716768696	the beginning
+0.0716040112	to hollywood in
+0.0715882280	the horror comedy
+0.0715774422	directed and starred in
+0.0715563778	breakthrough with
+0.0715179633	actors such as
+0.0714637827	the greatest
+0.0714389896	the satirical
+0.0714251005	prominence with
+0.0713681538	the silver bear for best
+0.0713365361	prominence in
+0.0713212614	the black
+0.0713001572	21 in 1980
+0.0710973040	the superhero film
+0.0710810396	and best picture for
+0.0710339984	received eight
+0.0710018322	million at
+0.0709284212	rose to
+0.0708973689	the decade
+0.0708572467	the uk
+0.0708520783	house on
+0.0708369557	an american film and television
+0.0707722624	and crew
+0.0707396629	a swiss
+0.0707079552	the principal
+0.0706880955	a bafta
+0.0706755974	executive producer and
+0.0706651646	the king
+0.0706374341	14 15
+0.0706369768	night at
+0.0705923300	group of
+0.0704684905	the history
+0.0702913327	oscar for
+0.0702497334	also wrote
+0.0702239260	man on
+0.0701947770	academy award for best
+0.0701898220	the superhero films
+0.0700372529	widely known for
+0.0700229052	kind of
+0.0700148790	the romantic comedy
+0.0699994196	the first season
+0.0699551186	the script
+0.0699456115	of fury
+0.0699286805	college of
+0.0698359149	comedy films such as
+0.0698244768	released by
+0.0698051618	the family
+0.0697657246	and radio
+0.0696798916	the nbc
+0.0696403963	win for
+0.0696109558	the fifth
+0.0695935914	horror films such as
+0.0694665237	including four
+0.0694114936	an independent
+0.0694018452	the religious
+0.0692877633	the post
+0.0691491500	many documentaries
+0.0690450548	2 3
+0.0690214514	the 2010s
+0.0690004901	a limited series
+0.0688306329	the film noir
+0.0687713730	other films
+0.0686699020	a turkish film
+0.0685066316	sense of
+0.0684929001	of art and
+0.0684579940	segment of
+0.0684000107	may 22
+0.0683836876	death of
+0.0683612757	at sundance
+0.0683565157	the primetime emmy award for outstanding
+0.0682376139	in 1937
+0.0681512700	the development
+0.0681505541	debut on
+0.0680364765	installment in
+0.0680099536	recognition for
+0.0679910111	production of
+0.0678867532	first major
+0.0677800937	the bafta fellowship for lifetime achievement
+0.0677375275	a grammy
+0.0677350700	on broadway
+0.0676863741	directors such as
+0.0676369234	lives in
+0.0676119541	written and directed by
+0.0675742287	island of
+0.0675510853	professionally as
+0.0674908437	sequel to
+0.0674066428	fifth nomination for best director at
+0.0672784455	directed over
+0.0672578594	the academy award for best original
+0.0672332479	the early
+0.0672251272	several successful
+0.0671840792	the book
+0.0670739893	the psychological
+0.0670681193	also produced
+0.0669187454	an english film director and screenwriter
+0.0668735491	primarily in
+0.0668444057	the audience
+0.0668394671	success at
+0.0668069286	7 8
+0.0667271125	movement of
+0.0666826897	terms of
+0.0666610363	the silent
+0.0666536599	the dystopian
+0.0666523148	many major
+0.0665975030	a combination of
+0.0665975030	an average of
+0.0665975030	an alumnus of
+0.0665682226	record for
+0.0665569415	a primetime emmy award for outstanding
+0.0665401991	the ballad of
+0.0665041319	included on
+0.0664874412	television work
+0.0664710519	died of
+0.0664477322	wins for
+0.0664351387	billion in
+0.0663775307	filmmakers such as
+0.0663624012	comedies such as
+0.0663049408	influence of
+0.0662930382	members of
+0.0662885947	a major
+0.0662658347	a popular
+0.0662105998	half of
+0.0661842650	the audience award
+0.0661573990	before making
+0.0661221264	30 april
+0.0661017110	legend of
+0.0660998649	in india
+0.0660929245	prominence as
+0.0660064154	a nomination for best director at
+0.0659943851	selected for
+0.0658865341	predominantly in
+0.0657701177	won four
+0.0656933296	medal of
+0.0656634556	as well as
+0.0656195061	for best direction
+0.0656057833	1 2
+0.0655449134	direction of
+0.0655442386	held in
+0.0654554397	acclaimed for
+0.0654134566	an assistant
+0.0653052841	produced several
+0.0652336870	best known
+0.0652283509	the latter
+0.0651790882	the spanish
+0.0651408496	the new
+0.0651051039	and voice actor
+0.0650520806	by critics
+0.0650448714	four films in
+0.0650180981	graduate of
+0.0650144546	king of
+0.0650099312	the cold war
+0.0650035412	received several
+0.0649536246	in 1933
+0.0649147169	a week
+0.0648540041	and screenwriter
+0.0648471267	university of
+0.0647862489	won two
+0.0647728142	home in
+0.0646994887	the reality
+0.0646958631	videos for
+0.0646808363	no name in
+0.0646808363	an evening with
+0.0646603750	rise of
+0.0646218038	the film stars
+0.0645772348	for portraying
+0.0645716356	received three
+0.0645504298	the animated film
+0.0644192367	work in hindi
+0.0643814064	an ensemble
+0.0643574491	one of only nine
+0.0643197136	same name
+0.0643088730	also won
+0.0642867390	reputation and
+0.0642667344	40 films
+0.0642638208	early in
+0.0642530050	of darkness
+0.0642448804	for co writing
+0.0642433363	a string of
+0.0641177195	and actor
+0.0641095269	the first woman
+0.0641052246	famous for
+0.0640972681	co founder of
+0.0640172544	controversy for
+0.0640051557	known professionally
+0.0640050182	directed such films as
+0.0639905338	for creating
+0.0639678041	received two
+0.0638387599	the bafta fellowship for
+0.0635267914	television series such as
+0.0634484810	the opening
+0.0634059584	received five
+0.0633824234	7 in 1985
+0.0633691387	and co wrote
+0.0633123807	the co founder
+0.0633017668	debut at
+0.0632766226	the pilot
+0.0632708379	man with
+0.0632454753	considered by
+0.0632056368	book of
+0.0631872195	on august
+0.0631526599	in hindi
+0.0631200329	a retired
+0.0630444874	life in
+0.0630214863	filmmaking at
+0.0629847226	fellowship for
+0.0629577871	woman in
+0.0629576693	the cbs
+0.0629562154	associated with
+0.0629297126	in tamil
+0.0628881991	and television producer
+0.0628620328	known for
+0.0628517446	of anderson's
+0.0627805422	received four
+0.0627631421	an emmy
+0.0627361043	a polish
+0.0627066474	the british film
+0.0626689085	debut in
+0.0626536396	use of slow motion and
+0.0626420808	14 in 2006
+0.0626310672	pioneer of
+0.0626063016	a special
+0.0625975030	the course of
+0.0625761214	started as
+0.0625637015	of hollywood's
+0.0625404466	the adult
+0.0625364765	order of
+0.0625338199	in japan
+0.0625028018	premiered in
+0.0624695528	notable for
+0.0624365514	four nominations
+0.0623702303	the 2007 remake of
+0.0623040512	the cold
+0.0622065214	reputation for
+0.0620875582	and spawned
+0.0620585561	at cannes
+0.0620533331	and generated
+0.0620504298	the documentary film
+0.0619933246	filmed in
+0.0619490987	the psychological horror
+0.0619336845	and producer
+0.0619175987	the work of
+0.0618702303	the 1969 play of
+0.0618630280	an italian
+0.0618440003	1 2 3
+0.0617392132	the same
+0.0615906022	the jury
+0.0615697769	and co produced
+0.0615697769	the co writer
+0.0615621924	nominated for two
+0.0615506071	the blockbuster film
+0.0615485144	in 2020
+0.0615236979	cinematography and
+0.0614888342	the third
+0.0614751614	the story
+0.0614670736	more than us
+0.0614570561	heart of
+0.0614270007	period of
+0.0614074620	end of
+0.0613633748	history of
+0.0613175987	in television and
+0.0612151218	designer and
+0.0611631781	director at
+0.0611614145	biopic of
+0.0611542819	began to
+0.0611396617	elements of
+0.0611335678	the documentary films
+0.0610529052	a finnish
+0.0610217596	figures of
+0.0610135038	the bad
+0.0609875675	a film director with
+0.0609605973	the bafta award
+0.0608727882	recognition in
+0.0608668148	films during
+0.0607384890	filmmaker known for
+0.0606937898	died in
+0.0606808363	an orangutan in
+0.0606552273	in competition
+0.0606369548	$ 14
+0.0606331804	the golden globe
+0.0606138873	a japanese
+0.0605169342	an english film and television
+0.0605133059	on netflix
+0.0604711511	the u.s
+0.0604325997	second feature
+0.0604155545	screenwriter and
+0.0604155545	director and
+0.0604030656	best known for writing
+0.0603175987	the production of films by other
+0.0602961090	and redemption
+0.0602141580	producers on
+0.0601893390	23 march
+0.0601783953	jury for
+0.0600306323	most acclaimed
+0.0599808386	humor and
+0.0599308363	the 100 most influential people in
+0.0598936849	fifth nomination for
+0.0598649508	on 29
+0.0598338733	appeared in several
+0.0598297126	the mid
+0.0598049857	the 2000s
+0.0597686101	in 2003
+0.0597515940	a record
+0.0596890471	shot in
+0.0596807215	the short film
+0.0595895104	and horror films
+0.0595796448	directing such films as
+0.0595739988	fifth film
+0.0595585847	also created
+0.0594308363	in many documentaries and
+0.0594146742	directed three
+0.0593970633	the ugly
+0.0593632268	best known for
+0.0593175987	a screenwriter for
+0.0593097221	both starring
+0.0592843467	the second season
+0.0591995370	in 2021
+0.0591908541	own production
+0.0591697433	sound of
+0.0591587476	two part
+0.0591557355	for best music
+0.0591376357	recognition with
+0.0591238109	son of
+0.0590750804	including two
+0.0590459591	the nazi
+0.0589748180	the psychological thriller
+0.0589674150	lost in
+0.0589325962	nominated for four
+0.0588595192	in 2010
+0.0588533647	body of
+0.0588218943	for best animated
+0.0587770653	brother of
+0.0587700028	for best international feature film
+0.0586259766	starred with
+0.0586163662	the supernatural
+0.0585726199	society of
+0.0585413861	on october
+0.0585087354	$ 10
+0.0584725405	directing films such as
+0.0584641736	6 7
+0.0584457596	the sundance
+0.0583987749	directed films such as
+0.0583782048	a producer for
+0.0582940857	the italian
+0.0582277376	published in
+0.0581547718	the national
+0.0581235744	an international
+0.0581223284	host of
+0.0581063912	character in
+0.0580662100	the blues
+0.0580062740	the crime film
+0.0579741599	a successful
+0.0579289940	the film's
+0.0577867399	also received
+0.0575217267	in 2013
+0.0575195196	use of
+0.0575173254	directed several episodes of
+0.0574608368	a nomination
+0.0574498223	set to
+0.0574456451	and executive produced
+0.0574328378	in 2018
+0.0574054498	the co creator
+0.0574050600	in 2016
+0.0573688197	a student
+0.0573343731	to heaven
+0.0573085801	also appeared
+0.0573028305	featured in
+0.0572798752	and performer
+0.0572763992	credit for
+0.0572728142	created and
+0.0572560059	and opera
+0.0572011766	for best director
+0.0571704908	battle of
+0.0571557284	the silver bear for best director
+0.0571424204	the eighth
+0.0571386141	7 8 9 10
+0.0571369841	most notable films
+0.0571363400	lord of
+0.0571279551	category for
+0.0570618295	the comedy series
+0.0570036759	the world war
+0.0569308363	a number of silent films during
+0.0569239367	episode of
+0.0569059611	coming to
+0.0568673607	of congress
+0.0568583917	the founding
+0.0568292162	in 2015
+0.0568180456	produced for
+0.0566642413	the order
+0.0566255274	then directed
+0.0566220428	one of
+0.0565503797	achievement in
+0.0564657439	producer and
+0.0564233107	in 1996
+0.0563782048	a producer on
+0.0562319054	in 2006
+0.0561712993	in 2008
+0.0560939815	in 2000
+0.0560901669	the erotic
+0.0560712210	a thief
+0.0560701927	history to
+0.0560601882	in 2002
+0.0560601882	in 2009
+0.0560192037	and decided
+0.0560062740	and film critic
+0.0559754525	of sense8
+0.0559705379	genre with
+0.0559657763	in 2004
+0.0559211598	animator and
+0.0559133678	and music videos
+0.0559039943	run of
+0.0559001981	the upcoming
+0.0558793326	subject of
+0.0558766284	love in
+0.0558724464	to act
+0.0558719873	the berlin international film festival for
+0.0558595192	in 2019
+0.0558595192	in 2017
+0.0558247865	shadow of
+0.0558147375	for best supporting actress
+0.0557372982	$ 5
+0.0557149388	other notable
+0.0555497928	the government
+0.0555444456	acclaim and
+0.0555317217	year career
+0.0554835285	in 1995
+0.0554443901	a train
+0.0554435344	appeared in three
+0.0554167087	in 2012
+0.0554113550	the category
+0.0553782048	for television and
+0.0553217605	the superhero
+0.0553002226	and composer
+0.0552904288	and science fiction
+0.0552828174	and art director
+0.0552238834	in turn
+0.0552019169	also starred
+0.0551374347	fame in
+0.0551345174	festival in
+0.0550964385	a group
+0.0550693016	the holocaust
+0.0550573764	projects as
+0.0548547175	the chicago
+0.0548271273	for playing
+0.0548017190	praise and
+0.0547294249	an advocate for
+0.0547276897	may 9
+0.0547236718	in 1997
+0.0547162924	wrote with
+0.0546960395	and photographer
+0.0546790328	for outstanding
+0.0546756964	times at
+0.0546397927	master of
+0.0546298167	third film
+0.0546115670	critical and
+0.0545659856	last film
+0.0545504094	also directed several episodes
+0.0545446557	a danish
+0.0544996966	a huge
+0.0544979129	the academy award for best picture
+0.0544702226	and co writing
+0.0543792186	a hungarian
+0.0543494328	a light
+0.0543175987	the city of
+0.0543170216	internationally for
+0.0543013012	over us
+0.0542780582	the top prize
+0.0542018390	25 september
+0.0541722325	game of
+0.0541356740	in telugu
+0.0541238457	the same year
+0.0541211404	after directing
+0.0540408089	prize for
+0.0540167426	summer of
+0.0539730747	adventures of
+0.0539551426	three years
+0.0539336439	30 november
+0.0538966622	trilogy of
+0.0538702226	and co directed
+0.0538179738	woman to
+0.0538045193	s successful
+0.0537094918	4 5
+0.0536762709	a french film
+0.0536642413	the police
+0.0536434080	and choreographer
+0.0535601636	an animator
+0.0534991632	novelist and
+0.0534717122	the bafta award for outstanding
+0.0534667304	5 6
+0.0533585514	the irving g
+0.0533534813	several awards
+0.0532917318	death in
+0.0531974185	two nominations
+0.0531611304	may 13
+0.0531368496	received six
+0.0531045103	an american television and film
+0.0530375858	known for creating
+0.0530058206	to do
+0.0528859431	an academy award for best director
+0.0528654211	a russian
+0.0528261712	7 8 9
+0.0527464319	first gained
+0.0526467358	films throughout
+0.0525989124	a wide
+0.0525115780	a prolific
+0.0524626823	an american television
+0.0523634403	also featured
+0.0523566736	arts and
+0.0523226160	won best
+0.0523219414	the new wave
+0.0523175987	the film appear to
+0.0522848685	three years later
+0.0522304038	project in
+0.0521904097	a number of television
+0.0521763516	a german
+0.0520831218	for best film
+0.0519702873	two golden
+0.0519297789	play of
+0.0519149329	a golden
+0.0518963993	the acclaimed
+0.0518865026	known for writing
+0.0518789464	a turkish
+0.0518134797	the tv
+0.0518041270	a segment
+0.0517921464	work on broadway
+0.0517634097	the album
+0.0517633747	a founding
+0.0516880508	the west
+0.0516699517	the pacific
+0.0516455584	of god
+0.0515922320	actor and
+0.0514672297	a british film
+0.0513113356	written and
+0.0512610311	also wrote and directed
+0.0512456485	began in
+0.0511594228	the duo
+0.0511420417	a number of television series
+0.0510777278	in 1990
+0.0510708563	a number of
+0.0510302219	of desire
+0.0510256739	star on
+0.0509681162	in chicago
+0.0509235629	known for making
+0.0509175475	in 2014
+0.0508564718	written with
+0.0506954982	the toronto
+0.0506783020	won best actor and
+0.0506632883	the concert
+0.0506549487	from 1960
+0.0506409835	the art
+0.0506399615	to mainstream
+0.0506266851	on may
+0.0505051839	and drama films
+0.0504830356	in germany
+0.0503752926	of heaven
+0.0503488990	11 in 2004
+0.0503281724	season of
+0.0502498979	for writing
+0.0501289784	since 2012
+0.0500688119	6 in 1979
+0.0500619822	a spanish film
+0.0500210737	films under
+0.0499886343	a live
+0.0499781536	in 2005
+0.0499048248	a spanish
+0.0498411105	with small
+0.0498101992	wrote and
+0.0498069671	a co founder
+0.0497956899	number of
+0.0496681514	an academy award nomination for
+0.0495970436	and adventure films
+0.0495750242	the fantasy
+0.0495380021	the netflix
+0.0493847117	director and producer of
+0.0493476439	followed by
+0.0493444488	a primetime emmy award for
+0.0493161410	the teen
+0.0493041270	a dozen
+0.0492941927	won five
+0.0492858882	award for best director for
+0.0492141372	for best original screenplay
+0.0491787487	an early
+0.0491777161	directed and co
+0.0491713748	in san
+0.0491236456	6 7 8 9 10
+0.0489603097	12 in 2006
+0.0489544099	in 1978
+0.0489440181	in 1999
+0.0488824242	many awards
+0.0488303983	a pioneer
+0.0487767269	back to
+0.0487585979	best known for writing and directing
+0.0486402425	with fellow
+0.0486352737	and novelist
+0.0485839827	a career spanning more than
+0.0485753961	also directed films
+0.0485118601	as well as receiving six
+0.0485107645	star in
+0.0485009485	6 7 8 9
+0.0484343994	writer and
+0.0484316757	known as
+0.0484126424	directed four
+0.0483803066	the hbo
+0.0483467430	the earth
+0.0483234822	in 2011
+0.0482902748	in 2007
+0.0482536378	for best documentary feature
+0.0482379727	in 1943
+0.0481612990	best known films
+0.0481175475	in 2022
+0.0481122907	the sitcom
+0.0480931505	the romantic
+0.0480119218	nominated for three
+0.0480064526	for directing films
+0.0479599155	such films as
+0.0475488703	several episodes
+0.0475273758	worked for
+0.0475213841	the opera
+0.0475176577	in order
+0.0474153507	that year
+0.0473601541	author of
+0.0473447261	in 1986
+0.0473347822	and musician
+0.0473137425	women in
+0.0472934764	the crime
+0.0471842142	in 2001
+0.0471463821	an academy award for best original
+0.0471203369	the marvel
+0.0470870295	a dramatic
+0.0470820277	in 1968
+0.0470757936	a mexican
+0.0470441114	the title
+0.0470296521	works with
+0.0468977037	the historical
+0.0468889647	also acted
+0.0468097743	classic of
+0.0467932281	then wrote
+0.0467908941	3 4 5
+0.0467102988	series such as
+0.0466799071	described as
+0.0466335359	an english film
+0.0465097435	a time
+0.0464581281	a dutch
+0.0463274415	in film history
+0.0461983029	founded in
+0.0461038767	in 1960
+0.0460931918	since then
+0.0460729576	produced and
+0.0460671231	the latter earned
+0.0460504994	9 10
+0.0460429839	other nominations
+0.0460403884	the british film industry as
+0.0460268053	first came to prominence
+0.0460209132	and editor
+0.0459759708	the french
+0.0459134761	in recognition of
+0.0459112166	with love
+0.0459088588	a romantic
+0.0458682618	academy awards for best
+0.0458446685	a documentary
+0.0457274863	and cinematographer
+0.0456781940	co director of
+0.0456341227	starting in
+0.0456255975	for best documentary
+0.0456025070	4 5 6 7
+0.0455016917	later years
+0.0453909448	from filmmaking
+0.0452937379	in 1980
+0.0452616304	5 6 7 8 9
+0.0452606982	other works
+0.0452562719	also known for directing
+0.0452490357	for best picture
+0.0451798584	an oscar
+0.0450992312	for best screenplay
+0.0450429422	for best animated feature
+0.0450162908	50 films
+0.0449935916	a total of more than
+0.0448868581	the biographical
+0.0448018464	later films
+0.0447502192	the social
+0.0447005546	own films
+0.0446789712	the film adaptation
+0.0446535175	for best actress
+0.0446391225	for two academy awards
+0.0445748030	8 9 10
+0.0445668720	studios in
+0.0445604615	best film not in
+0.0445155778	of film and television
+0.0444743708	and violence
+0.0444595307	fame for
+0.0444085162	the space
+0.0442222454	began with
+0.0441130931	the second season of
+0.0440725950	the subject
+0.0439953513	in london
+0.0439720996	in 1940
+0.0439605881	a japanese film
+0.0439342888	co written with
+0.0439309507	for best british
+0.0439155435	to direct films
+0.0438932891	for best actor
+0.0438229576	writing and
+0.0438061829	or produced
+0.0437943833	1 2 3 4
+0.0437940458	the planet
+0.0437431478	in 1964
+0.0436440738	to make
+0.0436085048	a film production
+0.0436072490	a period
+0.0435823350	co starred in
+0.0435806209	a controversial
+0.0435329669	work in horror films
+0.0434868509	from new york
+0.0434238485	after writing
+0.0433475374	the best director award
+0.0432883845	the influence
+0.0432755254	in new york city
+0.0431702348	directed and
+0.0431307739	for best
+0.0430724431	the co creator of
+0.0430436893	the co founder of
+0.0429491365	the french new wave
+0.0428974820	since 2000
+0.0428776526	and animator
+0.0428679247	the popular
+0.0428203809	a number of films
+0.0426712474	ten films
+0.0426635645	an executive
+0.0425913825	co directed with
+0.0425833979	the bafta
+0.0425677596	a second unit director
+0.0425020017	in particular
+0.0425003243	most internationally
+0.0424870655	9 in 2003
+0.0424442322	the bafta award for best film
+0.0424298938	of india
+0.0424030791	producing and
+0.0422905749	successful in
+0.0422787041	total of
+0.0422234431	for best director and best picture
+0.0421024556	the era
+0.0420961498	and produced
+0.0420273758	arts in
+0.0419955031	the anthology
+0.0419440076	of films and television
+0.0418855915	2 in 1958
+0.0418269453	as well as receiving
+0.0417909398	the blockbuster
+0.0416809067	work on
+0.0416220428	many of
+0.0415883775	co creator of
+0.0415501793	strangers on
+0.0415318476	and filmmaker
+0.0414784058	the bafta award for best direction
+0.0414261991	best remembered for
+0.0414058532	in new york
+0.0413750747	the co founders of
+0.0413601541	days in
+0.0413099713	an academy award for best
+0.0412809921	the first film
+0.0412651217	in 1992
+0.0411932977	an irish film
+0.0411479045	a canadian film
+0.0411303881	a co founder of
+0.0411061043	the filmography
+0.0410799580	also directed and produced
+0.0410791240	two years
+0.0410311257	a new zealand
+0.0410222752	for universal
+0.0409294922	daughter of
+0.0408345129	and producing
+0.0408330320	for writing and directing
+0.0407360563	a german film
+0.0407121906	6 7 8
+0.0406635102	by other directors
+0.0405145951	of age
+0.0404726590	and author
+0.0403817322	the new hollywood
+0.0403561380	in 1961
+0.0403360513	co directed and
+0.0403167262	since directed
+0.0403045042	the honorary
+0.0401082815	seen as
+0.0400738976	also earned
+0.0400578156	the national film
+0.0399430115	from critics
+0.0399428227	a long
+0.0398606742	a critical and commercial
+0.0398429121	2 3 4
+0.0397682428	age of
+0.0397597674	other directors
+0.0397537395	the national film award for
+0.0397533202	in 1957
+0.0397325903	the creative
+0.0397282873	co writer of
+0.0397193331	an australian film
+0.0396432891	several other film
+0.0395569735	13 in 2008
+0.0394477550	that same
+0.0394446528	in 1982
+0.0394424982	a nomination for
+0.0393999071	described by
+0.0393221057	back in
+0.0392824204	work on television
+0.0392250327	co wrote with
+0.0391335624	a short
+0.0390433571	the comedy
+0.0389082147	the stanley
+0.0388997697	to take
+0.0387760735	given by
+0.0387411272	and narrative
+0.0386975502	two directors
+0.0386277527	3 4 5 6
+0.0385611676	a silver
+0.0384932432	the best film
+0.0384077938	and sound
+0.0383917240	work in
+0.0383226610	the filmfare award for best director
+0.0383199013	and playwright
+0.0382790167	the animated
+0.0382694322	a remake
+0.0379870188	to prominence
+0.0379724025	the palme d'or at
+0.0379012029	co wrote and
+0.0378072647	also worked
+0.0378056095	on several films
+0.0377889376	best known as
+0.0377682126	the zombie
+0.0377427254	and writer
+0.0377306861	own film
+0.0376193455	best foreign language film for
+0.0375502290	a book
+0.0374927152	a total
+0.0374602305	on to direct
+0.0374093140	in 1963
+0.0374074996	in 1966
+0.0373637245	with themes
+0.0372156450	2 3 4 5 6
+0.0371614848	also known for
+0.0371593084	the horror
+0.0371542695	the pilot episode of
+0.0371145954	and performed
+0.0370379634	range of
+0.0367431478	in 1974
+0.0367402501	for best motion picture
+0.0366258464	out of
+0.0365775866	for producing
+0.0363946185	in filmmaking
+0.0363876634	the modern
+0.0363818674	the australian
+0.0363634053	100 most
+0.0362846961	and theater
+0.0362722752	1 billion
+0.0361972882	and comedian
+0.0361971872	the classic
+0.0360873036	in 1962
+0.0360462127	first came
+0.0360421511	the grand prix at
+0.0360095325	6 two years later
+0.0359662886	the dc
+0.0359354068	next films
+0.0358658826	show from
+0.0358108567	also nominated
+0.0357266873	before directing
+0.0357061265	5 6 7
+0.0356698849	or producer
+0.0355645763	in 1985
+0.0355203125	as well as directing
+0.0353639710	and theatre
+0.0353440906	also appeared in
+0.0352905259	best known for co
+0.0352341995	best director at
+0.0351535902	also nominated for best
+0.0351343278	more films
+0.0350160189	the silver
+0.0349872681	first came to
+0.0349264710	and artist
+0.0348282405	the dramas
+0.0347879634	development in
+0.0347103632	from europe
+0.0347090423	the recipient of many
+0.0346909600	an academy award nomination for best
+0.0346824150	the english
+0.0346436704	the lead
+0.0346435218	co writing and
+0.0346435218	co written and
+0.0346247002	the independent
+0.0345759751	the major
+0.0344959445	in 1998
+0.0343894108	in hollywood
+0.0343698151	in 1958
+0.0343200774	and art
+0.0342719101	two episodes
+0.0342525655	the academy awards for best picture
+0.0342460431	and directing
+0.0342094308	in 1955
+0.0340001182	and death
+0.0339144327	figures as
+0.0339069466	for best director at
+0.0338259751	the production
+0.0337329599	2 in 1971
+0.0336139320	in 1993
+0.0336136162	the british
+0.0335741781	2 3 4 5
+0.0335040575	50 greatest films of
+0.0334741233	the cannes
+0.0334699182	co created and
+0.0334637029	several films
+0.0334545227	a sequel
+0.0333666760	1 2 3 4 5
+0.0332183999	the end
+0.0332156576	and co
+0.0331512029	to work on
+0.0331471739	in 1971
+0.0331420227	in 1969
+0.0330695204	the un
+0.0330320983	4 5 6
+0.0329994387	outside of
+0.0329261991	first came to prominence as
+0.0328052960	in several television series
+0.0327309771	the central
+0.0327145829	and letters
+0.0326650222	in addition to
+0.0326496101	in later years
+0.0326137783	release in
+0.0326098772	the western
+0.0325803706	the contemporary
+0.0325712565	in 1973
+0.0325694325	in 1979
+0.0325678333	the life and
+0.0323782746	side of
+0.0323097681	a documentary about
+0.0321800725	10 three years later
+0.0321715304	the success of
+0.0321238944	the annual
+0.0318090302	the top
+0.0318034983	for best director and best
+0.0317908287	the library of congress as
+0.0317586923	next two
+0.0317460511	the only
+0.0315980672	of more than
+0.0315739962	with actors
+0.0315412895	the tamil
+0.0315031042	an adaptation of
+0.0313969713	and voice
+0.0313772042	gods and
+0.0313613044	no other
+0.0313204060	in 1991
+0.0312326195	the true
+0.0310985556	the action
+0.0310614888	for best first
+0.0309930269	known for directing films
+0.0309818847	for directing and
+0.0309717391	became associated with
+0.0309231477	the graphic novel
+0.0308573264	because of
+0.0307830490	the academy awards for best
+0.0307023201	as one
+0.0306459996	a critical
+0.0305485789	the concert for
+0.0305124464	as one of
+0.0303564550	novel by
+0.0303165700	for best adapted screenplay
+0.0302920841	of arts in
+0.0302791598	then moved to
+0.0302567793	a story
+0.0302427852	in 1994
+0.0300585255	perhaps best known for
+0.0300554553	as well
+0.0300412335	on fire
+0.0300302213	several of
+0.0300238360	the top ten
+0.0299790118	known for writing and directing
+0.0299171300	for excellence in
+0.0298504319	screenplay at
+0.0298193745	also nominated for
+0.0295830949	in 1970
+0.0295251862	of america
+0.0294816730	an english film director and
+0.0294236272	such films
+0.0293826843	the academy award for
+0.0293770226	the director of
+0.0293560017	best director for
+0.0293537900	the former
+0.0293317024	the first two
+0.0292672187	the film adaptation of
+0.0291889243	a production
+0.0290885447	according to film
+0.0290341362	a golden globe award for
+0.0290274162	the european
+0.0290067654	and television
+0.0289464961	appear in
+0.0289363042	two episodes of
+0.0288893655	the neo
+0.0288346448	for best animated feature for
+0.0285860513	and produced for
+0.0284179698	a star on
+0.0283834362	of merit in
+0.0282702030	the novel
+0.0282384777	the golden lion at
+0.0282308046	the academy award for best
+0.0282241620	first nomination for
+0.0281847681	a pioneer of
+0.0281778438	the academy of
+0.0281715304	the release of
+0.0281630355	went on to direct films
+0.0281571371	a career
+0.0281076675	2012 poll of
+0.0279682456	two years later
+0.0279673873	in 1959
+0.0279012029	an actor and
+0.0278180399	best feature film in
+0.0276710916	work in horror
+0.0276553533	the production of
+0.0275891394	that time
+0.0273915102	this time
+0.0273152306	a former
+0.0272321365	a total of
+0.0271715304	the role of
+0.0271363223	for best foreign language film for
+0.0268615637	as part of
+0.0268323222	the first woman to
+0.0268049789	various television
+0.0267074540	the bafta award for
+0.0266183999	and social
+0.0265860513	a bafta award for
+0.0265458977	a financial
+0.0265307168	went to
+0.0265111772	best director award at
+0.0264866540	as either
+0.0264852916	in 1935
+0.0264053533	as well as one of
+0.0263666810	a director of
+0.0262652923	a cult following
+0.0261724011	the best director award at
+0.0261235500	and producer known for
+0.0260826015	the next
+0.0260334944	most known for
+0.0259849205	several other
+0.0259767819	the novel of
+0.0258912107	for best original screenplay for
+0.0258762215	for best adapted screenplay for
+0.0258707872	also worked as
+0.0256888931	best director and best picture for
+0.0256875033	also wrote for
+0.0256853865	a writer and
+0.0256697140	the wolf of
+0.0256683046	the creator of
+0.0255751512	the age of
+0.0255559588	for best picture for
+0.0254527405	the end of
+0.0253291586	the live
+0.0252938127	a director in
+0.0252586935	came to prominence as
+0.0252321365	an episode of
+0.0252166810	the life of
+0.0251823242	a part
+0.0251724011	for best director for
+0.0251164822	to direct several
+0.0251088562	up to
+0.0250817024	the first three
+0.0250534687	came to
+0.0250277080	a member of
+0.0249549222	part of
+0.0248861772	the man from
+0.0248596672	the united
+0.0248083246	novel of
+0.0246783391	a trilogy of
+0.0246640456	for directing and producing
+0.0246225287	also served as
+0.0244958322	became known
+0.0244753147	a trilogy of films
+0.0244053533	the death of
+0.0243942812	a danish film director and
+0.0243666810	the first of
+0.0243560017	the house of
+0.0243237331	the last of
+0.0243012029	and producer of
+0.0242930314	the screenplay for
+0.0242173326	and other works
+0.0241420566	people in
+0.0240880716	together with
+0.0240105042	as president of
+0.0239418559	the planet of
+0.0238953786	went on
+0.0238834362	the 50 greatest films of
+0.0238552159	following year on
+0.0238346053	100 list of
+0.0237732562	the same name by
+0.0237267819	the president of
+0.0236066518	known for co
+0.0233892243	the sequel to
+0.0233365760	among other
+0.0232702291	to become
+0.0232239174	came with
+0.0231412107	the category of
+0.0231363223	a life in
+0.0230414107	also directed several episodes of
+0.0229820626	several episodes of
+0.0229667132	well known for
+0.0228764877	became one of
+0.0228330998	also known
+0.0228100346	the first to
+0.0227845731	an academy award for
+0.0226897556	the author of
+0.0226351042	seen in
+0.0225641380	the national film award for best
+0.0225153728	and director of
+0.0224731341	becoming one of
+0.0224667132	also directed several
+0.0224667132	became known for
+0.0224405563	a career spanning over
+0.0224265789	a range of
+0.0224129732	a golden globe award for best
+0.0224062533	first film in
+0.0222854151	an academy
+0.0222559977	the first time
+0.0221780803	on to
+0.0221614848	the son of
+0.0220866261	and appeared in three
+0.0220724431	for best direction of
+0.0220724431	the bafta award for best
+0.0220673756	a variety of
+0.0220619708	a remake of
+0.0220044483	an interest in
+0.0219518167	a british film and
+0.0217886162	to compete for
+0.0217757089	also acted in
+0.0217521590	a grammy award for
+0.0216009726	the filmfare award for best
+0.0215913825	as director of
+0.0215153728	a career as
+0.0214659594	and acted in
+0.0214276468	a series of
+0.0213688141	also starred in
+0.0213643483	the annual time 100 list of
+0.0212930314	the founder of
+0.0212495092	and starred in
+0.0211843539	the subject of
+0.0210724431	a group of
+0.0210724431	and best original screenplay for
+0.0210625108	best original screenplay for
+0.0210353127	the golden bear at
+0.0210277080	the story of
+0.0209818847	and directed several
+0.0208926282	made by
+0.0208891852	the golden globe award for best
+0.0208224431	a critical and
+0.0208160145	the university of
+0.0207740862	also known as
+0.0207289107	a film based on
+0.0207074540	and star in
+0.0206756909	one of only
+0.0205693206	much of
+0.0205549416	interest in
+0.0205408844	the adventures of
+0.0205073971	a recipient of
+0.0204276468	the order of
+0.0203941720	also worked on
+0.0203123312	the use of
+0.0202815423	a founding member of
+0.0202720783	the battle of
+0.0202672187	the history of
+0.0202005520	the latter of
+0.0201164970	the book of
+0.0201135390	the king of
+0.0200673756	to focus on
+0.0199997440	the recipient of several
+0.0198308046	the government of
+0.0195027180	and screenwriter known for
+0.0194243994	a reputation for
+0.0193413825	a sequel to
+0.0190788531	in collaboration with
+0.0190430314	the recipient of
+0.0189692393	and raised in
+0.0189356808	the rise of
+0.0188224431	the art of
+0.0185956630	the 2012 poll of
+0.0185954902	an american film and
+0.0185788686	also collaborated with
+0.0185621817	this time for
+0.0183469701	known for writing and
+0.0182858770	the first film to
+0.0182531836	the palme d'or for
+0.0180778247	a list of
+0.0179766953	most influential people in
+0.0178224431	the founder and
+0.0177469701	for such films as
+0.0177388000	the man with
+0.0177126392	the host of
+0.0176778247	the legend of
+0.0175956630	the lord of
+0.0175274905	also directed episodes of
+0.0175224922	in terms of
+0.0175173038	the beginning of
+0.0175103583	three academy awards for
+0.0173736199	as well as one
+0.0173340265	a full
+0.0172733986	the true story of
+0.0171733239	went on to direct films in
+0.0171455983	for services to
+0.0169515155	first film to
+0.0168923279	a story of
+0.0166683046	the first season of
+0.0166330492	the daughter of
+0.0165956630	the hollywood walk of fame for
+0.0165956630	the hollywood walk of fame in
+0.0165224922	the same category for
+0.0165045503	an executive producer and
+0.0160570470	an american animator and
+0.0160430314	the subject of and
+0.0159926455	also wrote and
+0.0159698607	the bad and
+0.0159261823	to prominence with
+0.0158860916	most known
+0.0158750747	the novel by
+0.0158599571	and horror films such as
+0.0155173038	the filmography of
+0.0153544187	and writer of
+0.0150519351	a golden globe for
+0.0146843618	best actor in
+0.0145830983	a graduate of
+0.0144296566	a nomination for best
+0.0143287323	or co
+0.0141897355	the list of
+0.0139972866	a graduate
+0.0139406389	an english film and
+0.0136472321	as writer and
+0.0121750273	also produced and
